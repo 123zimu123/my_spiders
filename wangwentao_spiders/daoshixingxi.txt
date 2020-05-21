@@ -1,0 +1,874 @@
+{
+    "姓名": "林敏",
+    "性别": null,
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "linmin@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "林敏，男，1972年生，教授，博士生导师，博士后合作导师。分别于1993年、2000年和2008年毕业于国防科技大学、南京通信工程学院和东南大学，获工学学士、硕士和博士学位，曾以国家公派高级研究学者身份赴美国的University of California访学。长期从事无线/卫星通信系统、智能信号处理等领域的教学科研工作，主持或参与完成了国家“973”、“863”、国家自然科学基金、国防预研、型研以及省部级科研项目近30项，多个成果达到国际领先或先进水平，并应用于实际的无线通信系统中，产生了良好的社会和经济效益。获国家科技进步二等奖1项，省部级科技进步二等奖4项，三等奖1项，在IEEE JSAC、J-STSP、TSP、TCOM等国内外核心期刊和重要国际会议上共发表学术论文150余篇，其中SCI收录60余篇。担任了国家自然科学基金申请书函评专家，郑州信息化专家委员会委员，ICC 2019的卫星与空间通信（SSC）专题主席，ICC、GLOBECOM等多个顶级国际会议的技术委员会（TPC）成员，以及IEEE  Magzine、Transactions以及Letters等多个顶级国际期刊的特邀审稿人。指导的学生中有多人次获得省部级优秀学位论文和国家奖学金，目前与美国、英国、加拿大等多个国家的多个知名团队建立良好的交流合作关系。"
+}
+{
+    "姓名": "王新珩",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": "教授",
+    "邮箱": "xinheng.wang@uws.ac.uk",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "王新珩教授是英国大学的全职教授，现为IEEE高级会员，英国标准委员会委员、英国威尔士政府专家顾问、欧盟项目评审和监控专家、英国EPSRC(英国工程、物理和科学研究基金委)项目评审专家。\r \r王教授在其多年的教学和研究生涯中，主持了一批欧盟、英国、中国以及企业界项目20多项，包括欧盟项目C－Monitor、eDispute、LP－WIS和Horizon2020项目SELFNET等4项和中国自然科学基金委项目3项、863项目1项。其中一些项目成果已经成功商业化。英国Swanmesh网络公司的成立就是依托他在无线Mesh网络领域的研究成果。近期，他和无锡知谷网络科技有限公司合作，研发了世界上首创的高科技产品i3Q候机宝，为世界各地机场提供智慧服务。",
+    "研究领域": "王教授的主要研究领域是以物联网、云计算以及大数据为依托的智能服务网络。\r\r物联网（包括无线mesh网络和传感器网络）领域：创新地将多色集合理论引入到网络的仿真、路由设计和信号认知中。根据多色集合理论设计的安全路由协议，建设了一个无线Mesh网络Swanmesh，并在英国创立Swanmesh Networks有限公司将科研成果商业化。同时在英国设立物联网研究生课程，传授最新的技术。在国内和企业合作，创建新型的智慧机场和智慧城市物联网。\r\r云计算领域：以欧盟H2020 SELFNET项目以及国家自然科学基金项目为基础，进行绿色云计算以及未来Software Defined Networks的科研工作。\r\r大数据：基于物联网和云计算技术，对采集到的数据进行大数据分析，提供个性化服务。\r\r其它研究领域还包括室内定位技术以及基于位置的服务，通信网络系统的互操作性研究，以及以上技术在灾害救援中的应用。\r\r在灾害救援领域，成立并领导一个英（国）巴（基斯坦）联合研究所，进行技术和标准的研究。同时发起并主持多个国际会议，成立一个世界联盟组织，致力于灾难救援领域的研究，服务社会。\r\r在科研活动的基础上，申请了发明专利14项、发表科研论文130多篇，其中SCI检索文章近50篇。同时获得国家省部级科学进步奖一等奖和三等奖各1项。"
+}
+{
+    "姓名": "徐常胜",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": null,
+    "邮箱": "csxu@nlpr.ia.ac.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "1996年7月在清华大学获得工学博士学位，1996年9月至1998年3月为中国科学院自动化研究所模式识别国家重点实验室博士后及副研究员，1998年3月至2008年5月在新加坡资讯通信研究院（Institute for Infocomm Research）任研究员和项目负责人，并担任媒体分析实验室（Media Analysis Lab）主任，2001年获得澳大利亚悉尼大学U2000 Fellowship资助在悉尼大学计算机系任研究员，2008年5月加入中国科学院自动化研究所。",
+    "研究领域": "研究方向：多媒体分析与检索、计算机视觉、模式识别中国科学院自动化研究所模式识别国家重点实验室研究员，博士生导师，中国新加坡数字媒体研究院执行院长，国家杰出青年基金获得者，国家重点研发计划项目“大数据多模态交互协同关键技术”首席科学家。。目前是国际电子电气工程师学会会士（IEEE Fellow)，国际模式识别学会会士（IAPR Fellow）和美国计算机学会杰出科学家（ACM Distinguished Scientist），也是美国计算机学会杰出演讲者（ACM Distinguished Speaker）。担任国际刊物“IEEE Transactions on Multimedia”和“ACM Transactions on Multimedia Computing, Communication and Applications”副主编(Associate Editor)以及“ACM/Springer Multimedia Systems Journal”、“International Journal of Multimedia Tools and Applications”、“International Journal of Multimedia Intelligence and Security”和“Journal of Multimedia”编委（Member of Editorial Board)，担任过国际顶级多媒体会议“2009 ACM Multimedia Conference”程序委员会主席和2010年全国多媒体会议程序委员会主席。担任过多个知名多媒体国际会议的组织委员会和程序委员会成员。在多媒体分析、计算机视觉、模式识别、图像处理等领域发表论文200多篇，其中IEEE和ACM汇刊论文42篇，获得发明专利30项。担任国家自然科学基金委信息学部第十四届专家评审组成员，获得过首届CCF青年科学家奖，2012/2013年中科院优秀导师奖，2012年“ACM Transactions on Multimedia Computing, Communication and Applications” 和2008年“ACM/Springer Multimedia Systems Journal”最佳编委奖，2004年新加坡陈嘉庚发明银奖。"
+}
+{
+    "姓名": "白晓东",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "xdbai@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "白晓东，工学博士，南京邮电大学通信与信息工程学院讲师 ，硕士生导师。2014年6月毕业于华中科技大学人工智能与自动化学院（图像识别与人工智能研究所）模式识别与智能系统专业，获工学博士学位。2014年8月进入南京邮电大学通信与信息工程学院从事教学科研工作，2019年赴澳大利亚阿德莱德大学进行访学交流。目前担任 Agricultural and Forest Meteorology、Computers and Electronics in Agriculture、Biosystems Engineering、IEEE ICPR 等学术会议期刊的审稿工作。近年来主持、参与完成了深度学习、计算机视觉、作物生长观测等领域内的科研课题，作为项目负责人主持国家自然科学基金青年科学基金、江苏省博士后人才资助、江西南昌农业气象重点实验室开放课题、南京邮电大学引进人才科研启动基金各1项。发表国际期刊论文12篇，获得授权国家发明专利11项。主讲本科生课程《软件工程》，海外学院留学生课程《计算机图形学》。",
+    "研究领域": "深度学习，人工智能，计算机视觉，作物长势观测，作物表型研究，卫星频谱异常监测"
+}
+{
+    "姓名": "鲍秉坤",
+    "性别": "女",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "bingkunbao@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "鲍秉坤，南京邮电大学通信与信息工程学院教授、博士生导师。江苏省双创人才、江苏省双创博士、南京市领军型科技创业人才、南京邮电大学高层次引进人才、南京邮电大学1311计划鼎山学者。在跨媒体检索与搜索、社交媒体推荐、社会事件检测、人脸识别、图像分类与理解、视频分析等方向取得了部分重要的成果，并提出了一系列有效的解决方案，用来处理大规模、多变化的多媒体信息感知、分析与处理。共发表论文60余篇，包含IEEE/ACM Trans. 10余篇。获得多媒体领域顶级期刊ACM TOMM 2016年度唯一的最佳论文奖，多媒体领域重要期刊IEEE Multimedia 2017年度唯一的最佳论文奖，国际会议ICIMCS 2009年度唯一的最佳论文奖，国际会议MMM 2019最佳论文亚军。获得2017年度电子学会科学技术一等奖、2016年度北京市科学技术三等奖、2012年度中国科学院王宽诚博士后工作奖励。主持国家和省部级项目6项，包括国家自然科学基金国际合作重点项目子项、面上项目两项、青年项目，北京市自然科学基金面上项目，博士后基金特别资助等。",
+    "研究领域": "研究方向：人工智能、计算机视觉、多媒体计算、社交多媒体部分发表的论文：1. Junyi Wang, Bing-Kun Bao, Changsheng Xu, \"Sentiment-Aware Multi-modal Recommendation on Tourist Attractions\", MMM, 2019. 【BEST PAPER RUNNER UP】2. Weiqing Min, Bing-Kun Bao, Shuhuan Mei, Yaohui Zhu, Yong Rui, Shuqiang Jiang, \"You are What You Eat: Exploring Rich Recipe Information for Cross-Region Food Analysis\", IEEE Transactions on Multimedia (IEEE TMM), 2017.3. Fudong Nian, Bing-Kun Bao, Teng Li, Changsheng Xu, \"Multi-Modal Knowledge Representation Learning via Webly-Supervised Relationships Mining\", ACM Multimedia, pp. 411-419, 2017.4. Bing-Kun Bao, Congyan Lang, Tao Mei, Alberto Del Bimbo: Learning Multimedia for Real World Applications. Multimedia Tools and Applications (MTAP), vol. 75, no .5, pp 2: 413-2417, 2016.5. Weiqing Min, Bing-Kun Bao, Changsheng Xu: An incremental probabilistic model for temporal theme analysis of landmarks. Multimedia Systems (MMST). vol. 22, no. 4, pp: 465-477, 2016.6. Bing-Kun Bao, Weiqing Min, Teng Li, Changsheng Xu, “Joint Local and Global Consistency on Inter-document and Inter-word Relationships for Co-clustering”, IEEE Transactions on Cybernetics (IEEE TCYB), vol. 45, no. 1, pp. 15-28, 2015.7. Bing-Kun Bao, Weiqing Min, Changsheng Xu, “Cross-Platform Emerging Topic Detection and Elaboration from Multimedia Streams”, ACM Transactions on Multimedia Computing Communications and Applications (ACM TOMM), vol. 11, no. 4, pp. 1-21, 2015.  【BEST PAPER】8. Weiqing Min, Bing-Kun Bao, Changsheng Xu, M. Shamim Hossain: Cross-Platform Multi-Modal Topic Modeling for Personalized Inter-Platform Recommendation. IEEE Transactions on Multimedia (IEEE TMM), vol. 17, no. 10, pp: 1787-1801, 2015.9. Chao Sun, Bing-Kun Bao, Changsheng Xu: Knowing Verb From Object: Retagging With Transfer Learning on Verb-Object Concept Images. IEEE Transactions on Multimedia (IEEE TMM), vol. 17, no. 10, pp: 1747-1759, 2015.10. Weiqing Min, Bing-Kun Bao, Changsheng Xu, \"Multimodal Spatio-Temporal Theme Modeling for Landmark Analysis\", IEEE MultiMedia 21(3): 20-29 (2014) 【BEST PAPER】11. Bing-Kun Bao, Guangyu Zhu, Jialie Shen, Shuicheng Yan, “Robust Image Analysis with Sparse Representation on Quantized Visual Features”, IEEE Transactions on Image Processing (IEEE TIP), vol. 22, no 3, pp. 860-871, 2013.12. Bing-Kun Bao, Guangcan Liu, Richang Hong, Shuicheng Yan, Changsheng Xu, “General Subspace Learning with Corrupted Training Data”, IEEE Transactions on Image Processing (IEEE TIP), vol. 22, no. 11, pp: 4380-4393, 2013. 13. Bing-Kun Bao, Guangcan Liu, Changsheng Xu, Shuicheng Yan, “Inductive Robust Principal Component Analysis”, IEEE Transactions on Image Processing (IEEE TIP), vol. 21, no 8, pp. 3794-3800, 2012.14. Bing-Kun Bao, Teng Li, Shuicheng Yan, “Hidden-concept Driven Multi-label Image Annotation and Label Ranking\", IEEE Transactions on Multimedia (IEEE TMM), vol. 14, no 1, pp. 199-210. 2012.15. Bing-Kun Bao, Bingbing Ni, Yadong Mu, Shuicheng Yan, “Efficient Region-aware Large Graph Construction towards Scalable Multi-label Propagation”, Pattern Recognition (PR), vol. 44, no 3, pp. 589-606, 2011.承担项目：1. 国家自然科学基金面上项目：面向社会事件的跨模态知识构建、演化与推理    2019.01-2022.12   负责人2. 国家自然科学基金国际重点合作项目：联合的图像大数据语义分析与城市场景重建   2017.01-2022.12子课题负责人3. 国家自然科学基金面上项目：面向旅游的地理位置互联网大数据的分析与处理    2016.01-2019.12   负责人4. 国家自然科学基金青年项目：基于物理空间与网络空间的社会事件分析的研究    2013.01-2015.12   负责人5. 北京市自然科学基金面上项目：面向社交网络的社会事件感知、 分析与处理      2015.01-2017.12    负责人6. 博士后基金特别项目：热点事件在物理空间和网络空间上自动检 测与跟踪的研究   2013.01-2014.12   负责人7. 博士后基金面上项目：基于互联网资源的多标签图像标注问题的研究   2012.01-2013.12    负责人8. 腾讯犀牛鸟专项研究计划   2018年11月-2019年11月   负责人9. 南京邮电大学产业研究院横向项目    2019年2月-2021年2月    负责人10. 中国科学院自动化研究所模式识别国家重点实验室开放课题   2019年1月-2020年12月  负责人11. 南京邮电大学重大重点项目负责人培育计划    2019年1月-2019年12月   负责人12. 南京邮电大学1311鼎山学者计划    2018年12月-2022年11月13. 南京邮电大学高层次人才引进启动基金    2018年1月-2020年12月学术兼职：1. MM 2019 Area Chair, MMM 2019 Publicity Chair, MM Asia 2019 Publication Chair, ICME 2019 Workshop Organizer,  ICIMCS 2018 Publication Chair, MMM 2018 Special Session Organizor, PCM 2017 Special Session Chair, ICIMCS 2017/2016 Special Session Chair2. Multimedia System Journal, Multimedia Applications and Tools  Guest Editor"
+}
+{
+    "姓名": "陈昌红",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "chenchh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "1982年8月出生于山东莱芜。2009年12月于西安电子科技大学获电子科学与技术专业博士学位，博士论文研究“动态图像序列的建模与分类及其在人体运动分析中的应用\"。同年加入南京邮电大学江苏省图像处理与图像通信重点实验室，2012年破格评为副教授，担任国内外多个期刊的审稿工作。2014年所在团队被评为南京邮电大学创新团队。    目前正在主持国家自然科学基金面上项目“基于概率图模型和语义描述的人群行为分析”，2013年主持完成江苏省自然科学基金项目“基于交叉视角的人体运动分析”、江苏省属高校自然科学基础研究项目“监控视频中的多人行为识别研究”和一项南京邮电大学引进人才项目基金，并作为主要研究人员参与多项基金项目的研究工作。",
+    "研究领域": "（1）图像理解与视频分析，重点研究监控视频中的行为分析、视频摘要等。（2）机器学习与模式识别研究，重点研究图模型理论、分类判别模型等。   2013年主持完成江苏省自然科学基金项目“基于交叉视角的人体运动分析”、江苏省属高校自然科学基础研究项目“监控视频中的多人行为识别研究”，主要完成了以下工作，获得了专家一致好评：1.根据人体行为序列的规律性，提出了两种视角不变描述的算法：基于自相关矩阵的对角特征提取方法和基于动态系统包的视角无关的人体行为识别方法，在交叉视角的行为识别中取得了稳定的识别率。2.引入了迁移学习算法，提出了两种视角无关的人体行为识别方案：基于双语线性动态系统包的算法和基于主题知识迁移的方法，获得了识别率的很大提升。3. 项目研究期间，在国内外期刊及会议上发表论文15篇（其中SCI检索3篇，EI检索8篇），申请国家发明专利2项，获得国家自然科学基金面上项目1项及江苏省高校自然科学基础研究项目1项，培养硕士生1名。    近年来，以第一作者在Pattern Recognition,IEE Electronics Letters,Pattern Recognition Letters,IEEE Transactions on System, Man, and Cybernetics-Part C: Applications and Reviews,China Communications等国内外学术期刊和ICIP、ICB等国际会议上发表相关论文20余篇，其中SCI检索8篇。    欢迎通信工程、电子信息工程、计算机科学与技术及相关专业学生报考，数学功底好、编程能力强、勤奋努力者优先考虑。"
+}
+{
+    "姓名": "陈建新",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "chenjx@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "陈建新，男，江苏南通人，2007年3月毕业于上海交通大学通信与信息系统专业，获工学博士学位。毕业后在南京邮电大学计算机学院工作。2008-2010年先后在葡萄牙IPP实时通信实验室和西班牙Gradiant研究中心从事博士后研究工作。2010年回南京邮电大学计算学院工作。2013年到南京邮电大学信号处理与传输研究院。当前主要研究方向为可穿戴计算。目前正主持江苏省高校自然科学研究项目，教育部重点实验室开发课题项目等。近年来，在Globecom Workshop、ICC、IEEE Healthcom、Chinacom、COIN、ETFA、KSII Transactions on Internet and Information Systems、IEICE Transactions on Communications/Information and System等国际国内核心学术期刊和会议上发表论文三十余篇，大部分被SCI、EI收录，担任Globecom, KSII Transactions on Internet and Information Systems等国内外学术期刊和国际会议的审稿人。",
+    "研究领域": "研究方向：数字物理信息系统（Cyber－physical system），普适传感（pervasive sensing），体域网（Body Sensor Network），可穿戴无线传感网络，低功耗实时通信，人机交互及物联网中技术。近年发表的代表性论文（1）Jianxin Chen, Liang Zhou, Baoyu Zheng, Jingwu Cui, Trade-off between Delay and Bandwidth Utilization for Heterogeneous   Sensor Networks, Globecom workshop, 9-13 December 2013, Atlanta, USA（2）Xuancheng Zhou, Jianxin Chen, Xiruo Lu and Yi Dong: A Quaternion-Based Orientation Estimation Algorithm with Adaptive    Interpolation for Wearable Computing, Chinacom 2013, 13-16, Guiling, China.（3）Chen, Jianxin; Zhou, Liang; Zhang, Yun; David, Ferreiro Fondo, Human Motion Tracking With Wireless Wearable Sensor Network: Experience and Lessons, KSII Transactions on Internet and Information Systems, 2013. 6 （4）Jianxin Chen, Liang Zhou, Baoyu Zheng, Jingwu Cui, Application-dependent Frame Design for the Internet of Things, ICC, June, 2013, Budapest（5）Jianxin Chen, Yuanyuan Chen, LiangZhou, Yuelin Du, A Data Gathering Approach for Wireless Sensor Network with Quadrotor-based Mobile Sink Node, KSII Transactions on Internet and Information Systems, 2012.10 .6（10）, 2529-2547（6）Jianxin Chen, Tao Liu, Lingjuan Li, Storage and Management Strategy of Heterogeneous Data Stream Based on Mutation Information, Communications in Computer and Information Science，Spring, The 6th China Conference of Wireless Sensor Networks, 2012（7）Yuanyuan Chen，Jianxin Chen, Liang Zhou, Yuelin Du， A Data Gathering Approach for Wireless Sensor Network with Quadrotor-based Mobile Sink Node，Communications in Computer and Information Science，Spring, The 6th China Conference of Wireless Sensor Networks, 2012（8）Jianxin Chen, Luis Lino Ferreira, Eduard Tover, An explicit GTS allocation algorithm in IEEE 802.15.4, 16th IEEE international Conference on Emerging Technologies and Factory Automation (ETFA 2011), Sept.5-9, 2011"
+}
+{
+    "姓名": "成孝刚",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "chengxg@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "程维文",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "wwcheng@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "程维文, 男, 中国民主同盟盟员. 理学博士, 副教授. 信号与信息处理专业量子信息技术研究方向硕士生导师.",
+    "研究领域": "研究方向为量子信息理论及其相关领域. 目前主持并参与国家自然科学基金 3 项, 主持南京大学固体微结构国家实验室开放课题 1 项. 在相关研究领域学术论文近 50 篇. 近年来代表作如下，\r\r1:W. W. Cheng, C. J. Shan, L. Y. Gong, S. M. Zhao\r\"Measurement-induced disturbance near Anderson localization in one-dimensional systems\"\rJ. Phys. B: At. Mol. Opt. Phys. 47 (2014) 175503\r\r2:W.W. Cheng, J.X. Li , C.J. Shan, L.Y. Gong, S.M. Zhao\r“Quantum discord near Anderson metal–insulator transition with correlated disorder”\rPhysica A: Statistical Mechanics and its Applications  398 1–9 (2014) \r\r3:W.W. Cheng, L.Y. Gong, C.J. Shan, Y.B. Sheng and S.M. Zhao\r“Geometric discord characterize localization transition in the one-dimensional systems”\rEur. Phys. J. D  67, 121, 2013\r\r4:W.W.Cheng, C.J.Shan, Y.B.Sheng, L.Y.Gong, S.M.Zhao, J.-M.Liu\r“Quantum and classical correlations in the anisotropic XY model with a single defect” \rPhysica E: Low-dimensional Systems and Nanostructures, 54, 72–77  2013\r\r5:W.W. Cheng, C.J. Shan, Y.B. Sheng, L.Y. Gong, S.M. Zhao\r“Quantum  correlation  approach  to criticality in the XX spin chain with multiple interaction”\rPhysica B: Condensed Matter, 407, 3671–3675,  2012\r\r6:W.W. Cheng, C.J. Shan Y.B. Sheng, L.Y. Gong, S.M. Zhao, B.Y. Zheng\r“Geometric discord approach to quantum phase transition in the anisotropy XY spin model”\rPhysica E: Low-dimensional Systems and Nanostructures, 44, 1320–1323, 2012\r\r7:W.W. Cheng , X.H.Zeng, X.B.Chen\r“Entanglement and quantum teleportation in a nonlinear spin channel” \rPhysica E: Low-dimensional Systems and Nanostructures, 44,  67–70,  2011.\r\r8:W. W. Cheng, J. -M. Liu\r\"Fidelity susceptibility approach to quantum phase transitions in the XY spin chain with multisite interactions\"\rPHYSICAL REVIEW A, Vol. 82, pp. 012304, 2010.\r\r9:W. W. Cheng, J. -M. Liu\r\"Disentanglement from spin environment: Role of multisite interaction\"\rPHYSICAL REVIEW A, Vol. 81, pp. 044304, 2010.\r\r10:W. W. Cheng, J. -M. Liu\r\"Decoherence from spin environment: Role of the Dzyaloshinsky Moriya interaction\"\rPHYSICAL REVIEW A, Vol. 79, pp. 052304, 2009.\r\r11:W. W. Cheng, C. J. Shan, Y. X. Huang, T. K. Liu, H. Li\r\"Entanglement dynamics from quantum critical environment: Role of Dzyaloshinsky Moriya interaction\"\rPhysica E: Low-dimensional Systems and Nanostructures, Vol. 42, pp. 1544, 2010.\r\r12:W. W. Cheng, C. J. Shan, Y. X. Huang, T. K. Liu, H. Li\r\"Entanglement in the Heisenberg spin chain with multiple interaction\"\rPhysica E: Low-dimensional Systems and Nanostructures, Vol. 43, pp. 235, 2010.\r\r13:W. W. Cheng, C. J. Shan, Y. X. Huang, T. K. Liu, H. Li\r\"Geometric phase signature of quantum criticality in the XY spin chain with multiple interaction\"\rPhysica B: Condensed Matter, Vol. 405, pp. 4821, 2010.\r\r14:W. W. Cheng, Y. X. Huang, T. K. Liu, H. Li\r\"Cntrol of impurity over entanglement in Heisenberg chain\"\rPhysica E: Low-dimensional Systems and Nanostructures, Vol. 39, pp. 150, 2007.\r\r15:W. W. Cheng, Y. X. Huang, T. K. Liu, H. Li\r\"Quantum dense coding using a peculiar tripartite entangled state\"\rChinese Physics, Vol. 16, pp. 0038, 2007."
+}
+{
+    "姓名": "崔子冠",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "cuizg@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "崔子冠，男，1982年生，于2008年4月获南京航空航天大学计算机应用专业硕士学位，2011年12月获南京邮电大学信号与信息处理专业博士学位。现工作于南京邮电大学通信与信息工程学院，江苏省图像处理与图像通信重点实验室；目前主要从事视频编码与传输、图像处理、视频主观质量评价等方面的研究。",
+    "研究领域": "主持完成国家自然科学基金青年项目 1项（61501260），江苏省自然科学基金青年项目1项（BK20130867），江苏省高校自然科学研究面上项目1项（12KJB510019），南邮引进人才启动基金项目1项（NY212015），江苏省高校研究生创新计划项目1项（CX10B_190Z） ；作为主要成员参与国自面上项目及企业合作项目多项。 以第一作者在TIIS、ISJ、JCIS、电子与信息学报、电子学报、仪器仪表学报等国内外学术期刊和会议上发表学术论文20余篇。担任多种国外学术期刊的审稿人。 目前主要研究方向：1. 视频编码与传输；2. 图像处理；3. 基于人类视觉系统的图像与视频处理。欢迎数学、英语基本功扎实，电子信息相关专业知识与编程能力较强、对图像与视频处理研究方向感兴趣的同学报考。大学期间积极参加各类活动的同学可以优先考虑。"
+}
+{
+    "姓名": "邓立新",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "denglx@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "2000年毕业于南京邮电大学信号与信息处理专业，获硕士学位；现任南京邮电大学副教授，主要从事\"语音信号处理\"领域教学与科研工作。",
+    "研究领域": "（一） 《语音处理与现代语音通信》 本研究方向研究各种语音和音频信号的高质量低码率压缩技术，多语言环境下的语音识别和转换技术，语音增强技术，各种通信网络环境中的实时语音通信技术。（二） 《信息安全技术》 本研究方向研究信息在各种信号中的携带形式，信息的隐藏、截获与检测、攻击、加密技术，以及各种信息接入环境中的语音认证和多模认证技术。"
+}
+{
+    "姓名": "邓丽珍",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "denglizhen@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "2014年毕业于华中科技大学，获博士学位，现就职于南京邮电大学通信与信息工程学院，副教授，研究生导师，IEEE 、OSA会员，并于2018年入选江苏省“六大人才高峰”高层次人才培养计划。主要从事图像处理与模式识别、人工智能、嵌入式实时图像处理系统，信号处理与分析理论和方法的研究，在此领域取得了多项研究成果。先后承担国家自然科学基金、中国博士后科学基金面上项目、江苏省自然科学基金、国家重点实验室开放课题等多项课题，并参与多项预言项目，累计科研经费250余万元；在外文期刊及国际会议发表论文30余篇，申请发明专利多项。与国内外专家学者建立了广泛的合作研究及学术交流联系，担任IEEE Transactions on Image Processing、IEEE Transactions on Cybernetics、IEEE Transactions on Neural Networks and Learning Systems、IEEE Transactions on Circuits and Systems for Video Technology等几十个国际期刊审稿人。",
+    "研究领域": ""
+}
+{
+    "姓名": "干宗良",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "ganzl@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "分别于2001、2004和2007年毕业于南京邮电学院通信工程系、南京邮电学院信息工程系、南京邮电大学通信与信息工程学院，分别获得获得工学学士、硕士和博士学位。获江苏省青蓝工程青年骨干教师和江苏省优秀博士论文。 目前为国际电气电子工程师协会（IEEE）会员，IEICE（The Institute of Electronics, Information and Communication Engineer）会员。主要研究方向是视频编码，视频处理，视频分析。主持完成国家自然科学青年基金1项，作为主要参与人员完成3项国家自然科学基金。主持完成多项企业合作项目和省部级项目，其中成果已经被产品化。目前发表学术论文40余篇，其中10余篇被SCI收录，30余篇EI收录；申请专利4项。目前主持国家自然科学基金1项，做为主要成员参与多项国家，企业科研项目。",
+    "研究领域": "1. 无线通信中的视频处理与编码优化方法；2. 视频监控中的图像增强技术和视频分析；3. 移动终端的图像显示增强处理"
+}
+{
+    "姓名": "葛琦",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "geqi@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "主持国家自然科学基金面上项目，  主持完成国家自然科学基金项目(61502244)，江苏省自然科学基金项目，主持中国博士后项目（一等）基于分层Graph稀疏低秩的关联图像联合分割方法(2015M580433)，主持并结题江苏省教育厅项目基于点-块-形分层图结构化的目标联合分割研究(15KJB520028)。研究方向是：模式识别、图像处理、计算机视觉、机器学习算法。IEEE T. Image Processing, Signal Processing, IEEE TNNLS 审稿人。以第一作者身份发表论文于IEEE T. Image Processing, Pattern Recognition等重要国际期刊上，以第一作者身份目前发表SCI期刊论文9篇，另有1篇在投。",
+    "研究领域": "研究方向是：模式识别、图像处理、机器学习算法、计算机视觉。以下是部分发表论文（第一作者）：[1]Qi Ge*, Liang Xiao, Jun Zhang, Zhi Hui Wei, An Improved Region-Based Model With Local Statistical Features, Pattern Recognition, 2012, 45(4): 1578-1590. (SCI, EI收录)[2]Qi Ge*, Chuansong Li, Wenze Shao, Haibo Li, A Hybrid Active Contour Model with Structured Feature For Image Segmentation, Signal Processing, Vol. 108, March 2015, Pages 147–158(SCI, EI收录)[3]Qi Ge*, Liang Xiao, Jun Zhang, Zhi Hui Wei, A Robust Patch-Statistical Active Contour Model for Image Segmentation, Pattern Recognition letter, 2012, 33:1549-1557.(SCI，EI收录)[4]Qi Ge*, Liang Xiao, Hu Huang, Zhi Hui Wei, An Active Contour Model Driven by Anisotropic Region Fitting Energy for Image Segmentation, Digital Signal Processing, 2013, 23:238-243. (SCI, EI收录)[5]Qi Ge*, Liang Xiao, Zhi Hui Wei, Active Contour Model for Simultaneous MR Image Segmentation and Denoising, Digital Signal Processing, 2013,23 (4): 1186-1196. (SCI,EI收录) [6]Qi Ge*, Zhi Hui Wei, Liang Xiao, Jun Zhang, An improved region-based model with local statistical feature, Proc. 18th IEEE International Conference on Image Processing, Brussels, Belgium, September, 2011: 3341-3344. (SCI, EI收录)[7] Qi Ge, Xiao-Yuan Jing, Fei Wu, Zhi-hui Wei, Liang Xiao, Wen-Ze Shao, Dong Yue, Hai-bo Li, Structure-based Low-Rank Model with Graph Nuclear Norm Regularization for Noise Removal, IEEE Trans. On Image Processing, Jul, 2017, 26(7), 3098-3112. (SCI,EI收录), [8]Qi Ge, Fumin Shen, Xiao-Yuan Jing, Fei Wu, Shi-Peng Xie, DongYue, Hai-Bo Li, Active contour evolved by joint probability classification on Riemannian manifold, Signal, Image and Video Processing, October 2016, Vol. 10, Issue 7, pp. 1257–1264 (SCI, EI收录)[9]Qi Ge, Xiao-Yuan Jing, Fei Wu, Jing jie Yan, and Hai-Bo Li, Unsupervised joint image denoising and active contour segmentation in multi-dimensional feature space, Mathematical Problems in Engineering, 2016, vol. 2016, Article ID 3909645, 9 pp. 1-9 (SCI, EI收录)[10]Qi Ge*,  Liang Xiao ; Li Qian Wang ; Zheng Rong Zhang , Zhihui Wei, A Hybrid Active Contour Model with Structure Feature For Image Segmentation, Proc. 20th IEEE International Conference on Image Processing(ICIP), Melbourne, 2013, 1242 – 1246. (EI收录)[11]葛琦， 邵文泽，李海波，一种新的轮廓－局部区域分割模型及对偶算法，计算机科学与技术，2017,27 (7):87-90，95"
+}
+{
+    "姓名": "桂冠",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "guiguan@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "南京邮电大学，教授，博士生导师。桂冠，南京邮电大学教授、博士生导师、日本庆应义塾大学客座教授（2019）、金陵科技学院客座教授（2019）、长江大学兼职博士生导师（2019）、IEEE高级会员（2017）、入选江苏省双创团队（2019）、全国高校黄大年式教师团队（2017）、江苏特聘教授（2016）、江苏省高层次创新创业人才（2016）、江苏省六大高峰人才（2018）、日本学术振兴会（JSPS）特别研究员（2012-2014，2018）、南京青年五四奖章（2018）、南京邮电大学优秀党员（2018）。先后承担国家科技重大专项、国家自然科学基金、日本文部省自然科学基金、华为科技项目等10余项。近五年来，已在国际学术期刊（IEEE IoT, IEEE TCOM, IEEE TVT, IEEE COMMAG, IEEE WCM等）发表SCI论文100余篇，其中ESI高被引论文13篇，ESI热点论文4篇，出版Spring英文专著2部，获得IEEE通信学会会员与全球活动贡献奖（2018），IEEE Transactions on Vehicular Technology最佳编委奖（2019），9次国际会议最佳论文奖（IEEE ICC 2014, IEEE VTC 2014-Spring, IEEE ICC 2017, ICNC 2018, CSPS 2018, ADHIP 2018, ICEICT 2019, CSPS 2019, ADHIP 2019），申请国家发明专利50余项。先后担任IEEE Transactions on Vehicular Technology（2017~）、IEICE Transactions on Communications (2020~)、IEEE Access （2018~）、Wireless Network (2019~)、Physical Communication(2019~)、通信学报（2019~）、IEICE Communications Express（2019~）、KSII Transactions on Internet and Information Systems（2017~）、Security and Communication Networks（2012-2016）等期刊编委。近几年来研究兴趣：人工智能、深度学习、智能通信、物联网等。",
+    "研究领域": "近几年来研究兴趣：人工智能、深度学习、计算机视觉、智能无线通信、压缩感知等。已在国际学术期刊（IEEE Transactions on Communications, IEEE Transactions on Vehicle Technology, IEEE Transactions on Aerospace and Electronic Systems , IEEE  Communication Magazine, IEEE Access等）以及国际会议(GLOBECOM, ICC, PIRMC, WCNC, VTC等)上发表论文220余篇，其中SCI论文100余篇，申请国家发明专利30余项。其主要成果可以参看个人主页：https://e84fb6a603e37fd0cff4d340175ac529my.webvpn.njupt.edu.cn:4443/guiguan近两年代表论文：[1]Guan Gui*, Hongji Huang, Yiwei Song, and Hikmet Sari, “An Effective NOMA Scheme based on Deep Learning,” IEEE Transactions on Vehicular Technology, vol. 67, no. 9, pp. 8440-8450, Sept. 2018. (中科院2区SCI, IF: 4.432)[2]Hongji Huang, Jie Yang, Hao Huang, Y. Song and Guan Gui*, “Deep Learning for Super-Resolution Channel Estimation and DOA Estimation based Massive MIMO System,” IEEE Transactions on Vehicular Technology, vol. 67, no. 9, pp. 8549-8560, Sept. 2018. (中科院2区SCI, IF: 4.432)[3]Miao Liu, Tiecheng Song, Guan Gui*, Jing Hu, and Hikmet Sari, “Deep Cognitive Perspective: Resource Allocation for NOMA based Heterogeneous IoT with Imperfect SIC,” IEEE Internet of Things Journal, pp. 1-15, July 2018. (中科院1区SCI, IF: 5.863)[4]Miao Liu, Jie Yang, Tiecheng Song, Jing Hu, and Guan Gui, “Deep Learning-Inspired Message Passing Algorithm for Efficient Resource Allocation in Cognitive Radio Networks,” IEEE Transactions on Vehicular Technology, March 5, 2018. (中科院2区SCI, IF: 4.432)[5]Hongji Huang, Yiwei Song, Guan Gui*, and Hikmet Sari, ” Deep Learning based Millimeter-Wave Massive MIMO for Hybrid Precoding,” IEEE Transactions on Vehicular Technology, Aug. 12, 2018. (中科院2区SCI, IF: 4.432)[6]Xiaochuan Sun, Guan Gui*, Ren Ping Liu, Yingqi Li and Yongli An, “ResInNet: A Novel Deep Neural Network with Feature Re-use for Internet of Things,” IEEE Internet of Things Journal, doi: 10.1109/JIOT.2018.2853663, 2018. (中科院1区SCI, IF: 5.863)[7]Tian Zhou, Sujuan Yang, Lei Wang, Jiming Yao, Guan Gui*, “Improved Cross-Label Suppression Dictionary Learning for Face Recognition,” IEEE Access, doi: 10.1109/ACCESS.2018.2868133, 2018. (中科院3区SCI, IF: 3.557)[8]Yunyi Li, Shangang Fan, Jie Yang, Jian Xiong, Xiefeng Cheng, Guan Gui*, and Hikmet Sari, ”MUSAI-L_(1/2): Multiple Sub-Wavelet-Dictionaries Based Adaptive Iteratively Weighted L_(1/2) Regularization Algorithm,” IEEE Access, vol. 6, no. 1, pp. 16795-16805, Dec. 2018. (中科院3区SCI, IF: 3.557)[9]Yunyi Li, Xiefeng Cheng, Guan Gui*, “Co-Robust-ADMM-Net: Joint ADMM Framework and DNN for Robust Sparse Composite Regularization, IEEE Access, doi: 10.1109/ACCESS.2018.2867435, 2018. (中科院3区SCI, IF: 3.557)[10]Yunyi Li, Yun lin, Xiefeng Cheng,Zhuolei Xiao, Feng Shu, Guan Gui*, “Nonconvex Penalized Regularization for Robust Sparse Recovery in the Presence of Impulsive Noises,” IEEE Access, vol. 6, no. 1, pp. 25474-25485, Dec. 2018. (中科院3区SCI, IF: 3.557)[11]Beiyi Liu, Guan Gui*, Shin-ya Matsushita, Li Xu, “Dimension-Reduced Direction-of-Arrival Estimation Based on L{2,1}-Norm Penalty ,” IEEE Access, doi: 10.1109/ACCESS.2018.2862435, 2018. (中科院3区SCI, IF: 3.557)[12]Yunyi Li, Fei Dai, Xiefeng Cheng, Li Xu, Guan Gui*, “Generalized Nonconvex Regularization Framework for Adaptive Compressive Sensing Reconstruction Using Multiple Prespecified  Dictionary Representation,” Journal of The Franklin Institute, 2018. (中科院2区SCI, IF: 3.576)[13]Bin Lyu, Haiyan Guo; Zhen Yang,  Guan Gui*, “Throughput Maximization for Hybrid Backscatter Assisted Cognitive Wireless Powered Radio Networks,” IEEE Internet of Things Journal, vol. 5, no. 3,  pp. 2015-2024, Jun 2018. (中科院1区SCI, IF: 5.863)[14]Bin Lyu, Changsheng You, Zhen Yang, and Guan Gui*, “The Optimal Control Policy for RF-Powered Backscatter Communication Network,” IEEE Transaction on Vehicular Technology, vol. 67, no. 3, pp. 2804-2808, Mar. 2018. (中科院2区SCI, IF: 4.432)[15]Lei Wang, Jiaming Liu, Mingkai Chen, Guan Gui*, Himet Sari, “Optimization-based Access Assignment Scheme for Physical-Layer Security in D2D Communications Underlaying a Cellular Network,” IEEE Transactions on Vehicle Technology, vol. 67, no. 7, pp. 5766-5777, July 2018. (中科院2区SCI, IF: 4.432)[16]Hongji Huang, Jian Xiong, Jie Yang, Guan Gui*, and Hikmet Sari, “Rate Region Analysis in Full-Duplex-Aided Cooperative Non-Orthogonal Multiple Access System,” IEEE Access, vol. 5, no. 1, pp. 17869-17880, Sept. 2017. (中科院3区SCI, IF: 3.557) [17]Nan Zhao, Qiuyi Cao, Guan Gui*, et. al., “Secure Transmission for Interference Networks: User Selection and Transceiver Design,” IEEE System Journals, pp. 1-11, Aug. 22, 2018. (中科院2区SCI, IF: 4.337)[18]Nan Zhao, Fen Cheng, F Richard Yu, Jie Tang, Yunfei Chen, Guan Gui, Hikmet Sari, “Caching UAV Assisted Secure Transmission in Hyper-Dense Networks Based on Interference Alignment,” IEEE Transactions on Communications, pp. 2281-2294, vol. 66, no. 5, May 2018. (中科院2区SCI, IF: 4.671)[19]Bin Lyu, Zhen Yang, Haiyan Guo, Feng Tian, Guan Gui*, “Relay Cooperation Enhanced Backscatter Communication for Internet-of-Things,”  IEEE Internet of Things Journal, pp. 1-11, Aug. 3 2018. (中科院1区SCI, IF: 5.863)[20]Nan Zhao, Fen Cheng, F Richard Yu, Jie Tang, Yunfei Chen, Guan Gui, Hikmet Sari, “Caching UAV Assisted Secure Transmission in Hyper-Dense Networks Based on Interference Alignment,” IEEE Transactions on Communications, pp. 2281 - 2294, vol. 66, no. 5, May 2018. (中科院2区SCI, IF: 4.671)"
+}
+{
+    "姓名": "韩光",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "hanguang8848@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "韩光(1981-)，工学博士，副教授，硕士生导师。2010年在南京理工大学获得国家重点学科模式识别与智能系统专业博士学位；从2010年底至今，在南京邮电大学宽带无线通信技术教育部工程研究中心任教，同时从2017年底开始担任南京南邮信息产业技术研究院副院长。先后主讲“数据库系统”、“C++面向对象的程序设计”、“数字媒体技术应用”等本科专业课程和“图像分析与机器视觉”研究生专业课程。曾获公安部科学技术二等奖1项，江苏省科技进步三等奖1项，中国通信学会科学技术三等奖1项，南京市科学技术三等奖1项。从2011年起，多次参加江苏省“教授博士柔性进企业活动”，在昆山市工业技术研究院进行挂职锻炼。在2012年和2016年度的南京邮电大学教职工综合考核中被评为“优秀”，同时获得“2016年度校先进工作者”荣誉称号。",
+    "研究领域": "联系方式："
+}
+{
+    "姓名": "侯晓赟",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "houxy@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "侯晓赟，女，1978年生，博士，副教授。2005年毕业于上海交通大学电子信息与电气工程学院，获博士学位，专业为通信与信息系统。现任职于南京邮电大学通信与信息工程学院，从事通信信号处理和信息论相关方向的科研与教学工作。承担并完成国家自然科学基金、移动通信国家重点实验室开放课题，以及江苏省高校自然科学基金等项目；作为主要成员参加国家科技重大专项课题和国家自然科学基金等多个项目。在国内外重要学术期刊和会议上发表学术论文50余篇，国家发明专利若干项。欢迎认真勤奋、肯钻研的学生一同学习与科研。",
+    "研究领域": "081002▲信号与信息处理研究方向：无线通信与信号处理技术；机器学习；信息安全；信息理论研究。研究内容：新一代无线通信系统构架、机器学习算法应用研究、高速移动通信系统等。"
+}
+{
+    "姓名": "胡栋",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "hud@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": [],
+    "研究领域": null
+}
+{
+    "姓名": "霍智勇",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "huozy@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "霍智勇，男，副教授，1973年12月出生，山东淄博人。1994年8月本科毕业分配至南京邮电学院工作；1997年至1999年在南京大学新闻系学习；2004年12起在南京邮电学院信号与信息系统专业（图像处理与多媒体通信方向）获得工学硕士学位。2013年1月在南京邮电大学、江苏省图像处理与图像通信重点实验室信号与信息系统专业（3D视频与自由视点图像处理方向）获得工学博士学位。期间2011年9月至11月赴美国弗吉尼亚大学学习。主持或作为主要成员参与过国家自然科学基金课题、国家科技支持项目、国家精品课程项目、省高校自然科学基金课题，出版教材3部，发表图像处理领域核心期刊论文多篇, 现从事数字媒体和新媒体技术、三维动画及影视数字特效技术和现代远程教育技术方面的教学和科研工作。",
+    "研究领域": "1. 数字媒体技术、人机交互界面系统理论与开发：主要研究基于图像的场景描述与视点增强、自由视点合成、三维立体显示、全景可视等相关技术及应用；面向移动互联网络的互动数字媒体的设计、开发和应用的基础理论；虚拟现实技术、三维重建与渲染、多模态人机交互界面。2.主要成果：1) 霍智勇，朱秀昌.基于LDPC码的数字图像水印技术研究，中国图象图形学报，2007年11期2) 霍智勇，朱秀昌.用于图象复原的离散L-曲线自适应算法，南京邮电大学学报(自然科学版)，2008年7月3) 霍智勇, 朱秀昌. 基于区域的立体匹配算法研究[J]. 南京邮电大学学报(自然科学版)，2011.31(3):44-49 4) 霍智勇，朱秀昌，刘天亮, 基于线性生长的区域立体匹配算法研究[J]. 仪器仪表学报, 2011. 32 (4): 819-824 (EI Compendex: 20112214022719) 5) 霍智勇,武明虎,刘天亮,朱秀昌. 利用深度信息增强的自由视点DIBR技术研究[J]. 湖北工业大学学报,2013,01:36-42+63.6) Huo,Zhi-yong, Liu, Tianliang; Zhu, Xiuchang. View generation using depth information to Enhance FV-DIBR [C]. In: Proceedings – IEEE，International Conference on Computer Science and Automation Engineering,CSAE2013,.2013.11. (EI Compendex: )7) ZhiyongHuo, Tianliang Liu, Xiuchang Zhu, Multi-view Synthesis Using The Relative Affine Structure From Video Sequences [C]. In: International Conference on Multimedia and Signal Processing (CMSP). IEEE, 2011, pp. 212-216 (EI Compendex: 20113414259479) 8) Liu, Tianliang; Dai, Xiubin; Huo, Zhiyong; Zhu, Xiuchang; Luo, Limin. A cost construction via MSW and linear regression for stereo matching. Proceedings - International Conference on Pattern Recognition, 914-917, 2012, ICPR 2012 (EI Compendex:20131016091736) 9) 霍智勇，三维动画技术[M]，江苏科技出版社，2009年8月10) 霍智勇，影视动画特效与合成[M]，江苏科技出版社，2010年3月二、科研项目1. 2011年. 江苏省教育科学“十二五”规划2011年度课题（项目编号D/2011/01/073），项目负责人。2. 2011年. 国家自然科学基金青年项目“高分辨率无序大尺度场景的多视图三维立体重建”（NO. 61001152），排名第二。3. 2012年, 国家自然科学基金青年项目“基于去趋势互相关和符号转移熵的心脑电耦合研究”（NO. 61271082），排名第三。4. 2011年, 江苏省高校自然科学研究计划项目“监控视频中多人行为识别研究”（NO. 11KJB510012），排名第二。5. 2010年. 南京邮电大学科研基金课题，反射式半球面沉浸式虚拟现实显示系统的设计与实现 （项目编号NY210053），项目负责人。"
+}
+{
+    "姓名": "季薇",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "jiwei@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": ""
+}
+{
+    "姓名": "解培中",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "cas@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "解培中，1968年生。1989年在南京航空航天大学获学士学位，1995年在南京第十四研究所获硕士学位，专业为通信与电子系统，现为南京邮电大学副教授。工作中相信：一份收获离不开一份耕耘。处世原则：先做人，后做事。",
+    "研究领域": "主要研究方向为电子系统和无线通信中的信号处理，包括故障诊断、智能天线、ＭＩＭＯ技术、协作通信等内容，在《系统工程与电子技术》、《电子与信息学报》和《通信学报》等期刊发表学术论文１0余篇，主编教材和教辅书各一本。"
+}
+{
+    "姓名": "孔令军",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "ljkong@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "孔令军（1982-），男，博士、副教授、硕士生导师。2011年1月，获得北京交通大学信号与信息处理专业博士学位。2014年海外人才引进加入南京邮电大学，2015年破格晋升副教授，同年获聘为硕士生导师。2014年至今，共主持科研项目7项,教改项目1项。发表SCI期刊15篇（其中IEEE TRANS 9篇）， EI论文30余篇。曾先后在韩国仁荷大学、新加坡南洋理工大学、香港理工大学、东南大学(合作导师 ：赵春明教授)、新加坡科技设计大学、美国加州大学圣地亚哥分校(合作导师：Paul H. Siegel教授)进行博士后研究工作和国家公派访学。2004年至2010年，先后在华为3Com、台湾凌阳科技、Intel中国研究院、NEC中国研究院、爱立信中国研究院进行软件开发和算法设计工作。IEEE会员，中国通信学会会员。",
+    "研究领域": "研究方向：\r\r1、机器学习和信息科学交叉研究\r2、新型存储系统中基于深度学习的信号处理技术研究\r3、智能安防中信号处理、云存储、边缘计算、嵌入式开发、移动互联技术研究\r4、基于深度学习的视频结构化分析、大数据处理技术研究\r\r主持项目:\r\r1、面向10Tb/in2级磁存储系统的二维LDPC码设计（61501250)，国家自然基金-青年基金（2016/01-2018/12）主持\r2、下一代超高密度磁存储系统中LDPC码技术的研究（2015M581698)，中国博士后科学基金第58批面上（2016/01-2017/12）主持\r3、基于STT-RAM的非易失性存储器纠错码技术的研究（1501037B)，江苏省博士后基金（2015/09-2017/08）主持\r4、下一代磁存储系统中二维信号处理与编码技术的研究（BJ215002)，教育部留学回国基金（2015/06-2017/05）主持\r5、叠瓦式TDMR磁存储系统中二维信号检测与LDPC码的研究（SJ214029)，江苏省自然科学-青年基金（2014/07-2017/06）主持\r6、60-GHz毫米波吉比特室内无线接入关键技术的研究（14KJB510021），江苏省高校自然科学面上项目（2014/08-2016/12）主持\r7、BPMR磁存储系统中二维信号检测与LDPC码的研究（NY214015），南邮引进人才科研启动基金（2014/06-2017/05）主持"
+}
+{
+    "姓名": "郎非",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "langf@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "郎非，男，工学博士，副教授。2004年入通信与信息工程学院任职至今。研究领域：大数据与机器学习。已发表论文二十余篇。讲授《模式识别》课程已有十余年，近期还开设有《Web数据挖掘》课程。从2015年初投身工业界，聚焦在数据科学和人工智能产品研发上。\rLang Fei received his Ph.D. degree in Information and Signal Processing from Nanjing University of Posts and Communications (NUPT). In 2004, he joined NUPT, where he is currently an Associate Professor in the School of Communications and Information Engineering, with a joint appointment at Institute of Big Data Research at Yancheng. His research interests are in Big Data and Machine Learning. In recent years, he is focusing on the industry-grade development of data science products and the applications of web data mining. He teaches the courses: Pattern Recognition and Web Data Mining, etc.",
+    "研究领域": "1、基于Web的数据科学产品研发：Web数据爬取、数据清洗、非结构化文本解析、核心业务算法建模（数据挖掘、聚类分析、智能推荐等）、mySQL & MongoDB数据库操作、大数据云平台上的部署与优化等。\r2、人工智能算法研究：机器学习、数据挖掘和自然语言处理（NLP）。\r欢迎对落地产品研发感兴趣的同学们加入我们数据科学与人工智能小组，也欢迎对算法建模研究感兴趣的同学加入我们小组。同时需要同学们随时做好丰富自身知识系统和技术生态的准备，并在数学、编程、英语和EQ等方面有基础有信心做到优秀。这样我们就可以一起玩转大数据啦！\r1. Developing industrial data science products which involved the technologies of data crawling, data cleaning, unstructured data analysis, modeling（data mining, clustering, intelligent recommendation）, operations on mySQL and MongoDB, performance optimization on high concurrency system, data deployment and optimization of big data apps on the cloud, etc.\r2. Developing innovative deep and width learning methodologies and algorithms in Natural Language Processing (NLP).\r3. Developing high dimensional data analysis, parallel and distributed computing.\rWelcome all the students join our team if you are interested in the development of industry-grade products of data science and AI, or the research of algorithms and modeling. Moreover, you need to be accustom to update your knowledge system and rich your technology ecology at any time. You also need to have a bit of intelligence in math, a bit of enthusiasm in coding, a bit of patience in reading English resources, and a bit of EQ in the communications with your team. And I believe that you will find it great fun doing data science in Dig Data time!"
+}
+{
+    "姓名": "李飞",
+    "性别": "女",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "lifei@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "李飞，工学博士，教授，瑞典Umeå大学客座教授。1990年硕士研究生毕业留校任教，2005年获南京邮电大学信号与信息处理专业博士学位，2006年任教授，2010年10月-2011年10月以访问教授身份赴瑞典Umea大学数字媒体实验室(DML)进行合作研究。2011年底始任瑞典Umeå大学客座教授（该校当年向全球公开引进的唯一华人客座教授）。IEEE会员，中国通信学会高级会员，全国高校实验室研究会理事，第五届江苏省高校实验室研究会副理事长，南京市鼓楼区第十、十一届政协委员。《Neural Network World》等SCI期刊特邀审稿人，担任AQIS2009、IEEE ICT2011、IEEE iThings2011、WCSP2011等多个国际学术会议程序委员会委员或分会场主席。2004年被评为江苏省“青蓝工程”优秀青年骨干教师，2010年获江苏政府留学奖学金，2011年入选江苏省“六大人才高峰”高层次人才计划。曾多次获省校优秀共产党员荣誉称号。获得国家级教学成果奖一等奖1项、江苏省教学成果特等奖1项、其它省部级奖励5项。长期从事通信信号处理、量子智能计算的研究。先后主持瑞典国家Linnaeus-Palme基金创新团队项目1项、国家自然科学基金项目1项、教育部-中国移动科研基金项目1项、江苏省六大人才高峰项目1项、国家重点实验室(华为无线通信接入技术国家重点实验室)创新研究计划项目1项、江苏省高校自然科学研究计划项目1项、中国科学院声学研究所项目1项，作为子课题负责人完成国家自然科学基金项目2项、国家863计划重点项目1项、教育部博士点基金项目1项、江苏省自然科学基金项目1项。2010年10月至2011年10月在瑞典访问期间合作完成欧盟项目1项、瑞典国家科学研究基金项目2项。在《Advances in Neural Networks》、《CHINESE JOURNAL OF ELECTRONICS》、《通信学报》、《电子与信息学报》等期刊和CEC、IJCNN、SSCI、ICT等有较高学术影响的国际学术会议上发表SCI/EI收录论文近40篇。获得中国发明专利授权3项、公开3项。先后主持江苏省教育科学“十一五”规划重点课题1项、江苏省高等教育教学改革研究课题重点项目1项、一般项目1项。在《中国高教研究》、《实验室研究与探索》、《实验技术与管理》、《江苏高教评论》等刊物发表教学研究论文多篇。",
+    "研究领域": "目前的研究领域包括：1．无线通信中的信号处理技术信号处理与通信技术两者的结合始终密不可分，现代信号处理技术对提高无线通信特别是下一代无线网络性能的作用越来越大。本研究方向研究新一代无线通信网络环境中的通信与信号处理技术。目前本研究团队主要侧重研究5G移动通信中的信号处理技术、认知网络与无线传感网络、基于压缩感知和自适应信号处理的无线网络环境感知与预测等新一代信息技术及其与量子计算的交叉融合。2．量子信号与信息处理量子信息技术是利用量子态的物理特性进行信号及信息的表示与处理。随着量子加密技术、SHOR算法和GROVER快速搜索算法等方法的提出，量子信息技术得到了迅速发展，已逐渐从理论到实验，乃至实用化。目前本研究团队侧重于量子智能计算的研究，注重量子信息技术在通信信号处理中的应用研究，主要包括量子菌群优化、量子粒子群优化、量子免疫计算、量子神经网络等量子智能计算方法以及量子GROVER快速搜索算法的研究及在通信中的应用。* 近年承担的国家级省级科研项目和国际合作项目(1)国家自然科学基金项目“全维MIMO蜂窝系统中基于量子智能计算的信道估计与干扰协调技术研究”（61471200），2015.1-2018.12，主持(2)瑞典国家Linnaeus-Palme基金创新团队项目，2014.7-2015.6，主持(3)教育部-中国移动科研基金项目“基于无线传感网的融合性室内定位解决方案研究”（No.MCM201302311），2014.3-2015.6，主持(4)江苏省六大人才高峰项目“传感网络辅助动态与认知频谱接入系统模型及应用策略”（No.2011WLW011），2012.1-2013.12，主持(5)科技部无线通信接入技术国家重点实验室（华为技术有限公司）项目“动态频谱共享研究”（No. SKL-2012-01-03），2013.1-2013.12，主持(6)中国科学院声学所项目“语音基础资源数据库制作”，2013.7-2013.12，主持(7)江苏省高校自然科学研究指导性计划项目“量子神经计算模型研究”（No.01KJD510004），2002.1-2004.12，主持(8)国家自然科学基金项目“量子多用户检测”（No.60272066），2003.1-2005.12，子课题负责人，提出了量子神经网络多用户检测方法和量子遗传算法多用户检测方法。已完成，国家自然科学基金结题优秀(9)国家863计划重点项目“多语言语音识别关键技术研究与应用产品开发”，（No.2006AA010102）,2007.1-2009.12，子课题负责人，提出了基于量子计算的语音识别方法(10)国家自然科学基金项目“含噪量子多址信道下量子多用户检测方法的研究”（No.60672133），2007.1-2009.12，排名第二(11)教育部博士点基金项目“MIMO系统中基于量子算法的信号检测方法的研究”（No.20060293001），2007.1-2009.12，排名第二(12)欧盟项目“Tactile Video（触觉视频）”（No.303-14960-2007），2010.10-2011.10在瑞典访问期间参与该项目研究(13)瑞典国家研究基金项目，“Wyner-Ziv coding for large scale facial image retrieval”（No.2009-4489），2010.10-2011.10在瑞典访问期间参与该项目研究，提出基于量子计算的海量数据快速搜索方法* 近年以第一作者或通信作者发表的相关论文[1]Li Fei, Zhao Shengmei, Zheng Baoyu. “Performance of a single quantum neuron”, 电子学报(英文版), Vol.14(1): 111-114, 2005 (SCI、EI)[2]Li Fei, Zhao Shengmei, Zheng Baoyu. “Quantum Neural Network for CDMA Multi-user Detection”, Advances in Neural Networks, Vol.3498: 338-342, Springer-Verlag, 2005 (SCI、EI)[3]Li Fei, Ji Wei, Ge wenxue, Zhang Yuting. “Quantum Bacterial Foraging Optimization for Spectrum Allocation”, KSII Transaction on Internet and Information Systems, Vol.8, 2014 (SCI)[4]李飞，周敏，郑宝玉. “一种新的量子遗传算法优化的神经网络模型”, 计算机学报, 2014年第11期 (EI)[5]李飞, 郑宝玉, 赵生妹. “量子神经网络及其应用”, 电子与信息学报, Vol.26(8): 1332-1339, 2004 (EI)[6]李飞, 董小亮, 赵生妹, 郑宝玉. “基于量子神经网络的CDMA多用户检测方案”, 电子与信息学报, Vol.27: 143-145, 2005 (EI)[7]李飞, 赵生妹, 郑宝玉. “具有非线性特性的量子神经元”, 通信学报, Vol.24(11A): 141-146, 2003[8]李飞, 赵生妹, 郑宝玉. “量子神经网络及其在CDMA多用户检测中的应用”, 信号处理, Vol.21(6): 555-559, 2005[9]李飞, 赵生妹, 郑宝玉. “量子神经元特性研究”, 电路与系统学报, Vol.9(4): 76-80, 2004[10]叶庆波, 李飞*.“可变旋转轴的Grover改进算法”，南京邮电大学学报(自然科学版), Vol.33(4)::50-54, 2013[11]周立志, 李飞*, 郑宝玉. “一种改进的量子Grover算法”, 南京邮电大学学报(自然科学版), Vol.31(2):27-30, 2011[12]刘欣, 李飞*, 郑宝玉. “基于量子遗传算法的多约束QoS路由算法”, 南京邮电大学学报(自然科学版), Vol.31(2):31-35, 2011[13]李兆华, 李飞*, 郑宝玉. “量子免疫算法及在0-1背包问题中的应用”, 南京邮电大学学报(自然科学版), Vol.31(2):36-39, 2011[14]周敏, 李飞*, 郑宝玉. “基于量子算法的MIMO-OFDM信号检测研究”, 南京邮电大学学报(自然科学版), Vol.31(2):78-82, 2011[15]李飞, 赵生妹, 郑宝玉. “量子神经网络及其在语音识别中的应用”, 声学技术, Vol.24: 148-152, 2005[16]郑冬生, 李飞*. “量子遗传算法及其在多用户检测中的应用”, 计算机工程与应用, 2006(23) :229-232, 2006[17]李成, 李飞*. “改进量子遗传算法及其在FIR滤波器设计中的应用”, 计算机工程与应用， Vol.45(4):239-241，2009[18]周立志, 李飞*. “基于Grover算法的通信系统信号检测”, 计算机工程, Vol.36(15):250-252, 2010[19]王娟, 李飞*. “一种基于实数编码的量子免疫克隆算法”, 计算机工程, Vol.38(18):133-136, 2012[20]李殷, 李飞*. “基于量子粒子群优化算法的矢量量化码书设计”, 电视技术, Vol.36(17):26-29, 2012[21]洪超, 李飞*. “一种自适应相位旋转的二进制量子蚁群算法”, 计算机工程与应用, Vol.39(16), 2013[22]张豫婷, 李飞*. “一种新的基于细菌趋药行为的量子算法”, 计算机工程，Vol.39(9):196-200, 2013[23]Li Fei, Zhao Shengmei, Zheng Baoyu. “Recognition of Continuous Digits by Quantum Neural Networks”, 中国邮电高校学报(英文版), Vol.10(1): 29-33, 2003[24]Li Fei, Zhao Shengmei, Zheng Baoyu. “Feedback Quantum Neuron and Its Application”, IEEE International Conference on Neural Networks and Brain (ICNN&B’05), pp867-871, Beijing, 2005 (EI)[25]Li Fei, Dong Xiaoliang, Zhao Shengmei, Zheng Baoyu. “A Learning Algorithm for Quantum Neuron”, IEEE International Conference on Signal Processing (ICSP’04), pp1538-1541, Beijing, 2004 (EI)[26]Li Fei, Hong Liang, Zheng Baoyu.  “Quantum Genetic Algorithm and its Application to Multi-user Detection”, IEEE International Conference on Signal Processing (ICSP’08), pp1951-1954, Beijing, 2008 (EI)[27]Li Fei, Xu Guobiao. “Quantum BP Neural Network for Speech Enhancement”, IEEE 2009 Asia-Pacific Conference on Computational Intelligence and Industrial Applications (ACIA’09), pp389-392, Wuhan, 2009 (EI)[28]Li Fei, Xie Chengjie, Zheng Dongsheng, Zheng Baoyu. “Feedback Quantum Neuron for Multiuser Detection”, 2006 International Joint Conference on Neural Networks (IJCNN2006), pp5274-5278, Vancouver, 2006 (EI)[29]Li Fei，Zhou Min, Li Haibo. “A Novel Neural Network Optimized by Quantum Genetic Algorithm for Signal Detection in MIMO-OFDM Systems”, IEEE Symposium Series in Computational Intelligence 2011 (SSCI 2011), pp170-177, Paris France, 2011 (EI)[30]Li Fei，Zhu Dongpo, Tian Feng, Li Haibo. “Improved Quantum Genetic Algorithm for Competitive Spectrum Sharing in Cognitive Radios”, Lecture Notes in Electrical Engineering (ISSN:1876-1100, Book Chapter), pp1203-1209, Springer New York, 2011[31]Li Fei，Zhou Lizhi, Li Haibo. “A Quantum Search Based Signal Detection for MIMO-OFDM Systems”, IEEE 18th International Conference on Telecommunications (ICT 2011), pp276-281, Ayia Napa Cyprus, 2011 (EI)[32]Li Fei，Zhu Dongpo, Tian Feng, Li Haibo. “Cognitive Radio Spectrum Sharing using Improved Quantum Genetic Algorithm”, IEEE 2011 International Conference on Wireless Communications and Signal Processing (WCSP 2011), pp1-6, Nanjing, 2011 (EI)[33]Li Fei，Zhang Yuting, Wu Jiulong, Li Haibo. “Quantum Bacterial Foraging Optimization Algorithm”, IEEE Congress on Evolutionary Computation (CEC), Beijing, 2014 (EI)* 获专利情况(1)李飞，郑宝玉，赵生妹. “量子神经网络用于多用户检测的方法”，2009.10，中国，ZL200610038722.1(2)郑宝玉，赵生妹，李飞. “一种低复杂度的多用户检测方法”，2008.3，中国，ZL2000610038618.2(3)赵生妹，郑宝玉，李飞. “仿真实现艾科特量子密钥分配协议的方法”，2009.8，中国，ZL200610038619.7(4)李飞，季薇等. “基于无线传感器网络可靠感知的频谱共享方法”，2014.4，中国，申请专利号201410175453.8(5)李飞，季薇等. “一种基于传感器和量子智能计算的主用户定位方法”，2014.7，中国，申请专利号201410321036.X"
+}
+{
+    "姓名": "李涛",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "lt@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "李涛，男，1964年生，1994年毕业于东南大学电磁测量专业，获得工学硕士学位。副教授，硕士研究生导师。",
+    "研究领域": "研究方向为信号与信息处理在网络中的应用及新型网络中路由技术的研究。作为项目负责人主持完成了多个横向项目。作为主要参加者参与完成了几个国家自然科学基金项目。"
+}
+{
+    "姓名": "李汀",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "lit@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "李晓飞",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "lixf@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "主要研究方向：信息网络与多媒体技术；嵌入式多媒体通信系统及终端；视频通信与视频分析；人工智能、机器人。"
+}
+{
+    "姓名": "李燕萍",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "liyp@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "李燕萍，女，1983年生，陕西合阳人，工学博士，副教授，硕士生导师。2009年毕业于南京理工大学计算机科学与技术学院，获国家重点学科模式识别与智能系统专业博士学位。现任职于南京邮电大学通信与信息工程学院，从事信号处理、模式识别、语音信号处理与多媒体通信等相关方向的科研与教学工作。2014年在南京邮电大学“信息与通信工程”博士后流动站从事博士后研究。2017.7~2018.7以访问学者身份在新加坡国立大学进行学术交流，合作导师李海洲教授。 近年来主讲“数字信号处理”，“数字信号处理（双语）”，“语音信号处理”等专业课程。2010年荣获南京邮电大学“第九届青年教师授课竞赛二等奖”及通信与信息工程学院“青年教师授课竞赛一等奖”，2011年荣获通信与信息工程学院“优秀班主任”称号，2012年荣获“南都奖教金二等奖”，2015年荣获“青年教师优秀教学奖”；主持完成南京邮电大学教学改革研究项目1项，发表教学改革研究论文2篇。 主持完成国家自然科学基金项目1项，省博士后基金1项，南京邮电大学引进人才基金项目1项，南京邮电大学自然科学基金项目1项及横向课题1项。作为主要成员参与完成国家自然科学基金项目4项、江苏省自然科学基金2项及浙江省自然科学基金1项。近年来以第一作者在国内外学术期刊和会议发表学术论文20余篇，申请发明专利20余项，第一发明人授权专利2项，其中1项已完成科技成果转化；主编出版教材1部及专业图书1部，副主编出版专著1部。",
+    "研究领域": "研究模式识别与人工智能、语音信号处理、机器学习等方向的理论、算法，培养学生的学术水平和研究能力。研究开发"
+}
+{
+    "姓名": "梁彦",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "liangyan@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "梁彦，工学博士，通信与信息工程学院硕士生导师。2013年于南京理工大学取得信息与通信工程专业博士学位，2004年于南京理工大学取得通信与信息系统专业硕士学位，2001年于南京理工大学取得通信工程专业学士学位。2004年至2008年于阿尔卡特－朗讯科技担任通信系统研发工程师。2013年至今在南京邮电大学通信与信息工程学院任教。担任《通信原理》课程的教学工作。研究领域包括宽带无线通信与通信信号处理。",
+    "研究领域": "研究兴趣： "
+}
+{
+    "姓名": "刘爱萍",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "apliu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "刘爱萍，女，理学博士。1986年3月出生于福建省三明市。2009年6月毕业于福建师范大学，并获得工学学士学位，光信息科学与技术专业。2009年9月进入中国科学技术大学硕博连读，在中国科学院量子信息重点实验室参加科研活动。2014年5月获得理学博士学位，光学专业。2014年6月至今，在南京邮电大学通信与信息工程学院从事教学科研工作。教学方面，主讲本科生《光纤通信与数字传输》和《卫星广播与光纤通信》。科研方面，在量子信息处理重点实验室参加有关量子信息处理方面的实验和理论研究，作为项目负责人主持国家自然科学基金青年科学基金和南京邮电大学引进人才科研启动基金各一项。",
+    "研究领域": "主要研究方向：量子集成光学，量子信息处理。具体研究内容：表面等离子体在量子信息中的应用，轨道角动量在集成光学中的制备与应用，量子纠缠光源的实验制备等主要研究成果：在国内外重要刊物上（包括Scientific Reports, Laser & Photonics Review, Applied Physics Letter, Optics Express等）发表学术论文十余篇，其中被SCI收录8篇，以第一作者发表6篇，被引用三十多次，参加国内外重要学术会议多次。"
+}
+{
+    "姓名": "刘峰",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "liuf@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "刘峰教授，工学博士，博士生导师。南京邮电大学教育科学与技术学院院长兼党总支副书记，江苏省图像处理与图像通信重点实验室副主任；信号和信息处理学科学术带头人；江苏省“六大人才高峰”高层次人才培养人选和江苏省高校“青蓝工程”培养人选；南京多媒体信息技术学会副理事长；南京邮电大学“1311人才计划”团队负责人；2009年南京邮电大学教学名师。长期从事图像处理与网络视频通信、高速DSP与嵌入式应用系统设计、虚拟现实等领域的教学与科研工作。分别于1993年和1997年在南京理工大学电子工程与光学技术学院获工学硕士和工学博士学位。2002年至2004年在新加坡Safe-T-NetTM 研究所从事视频技术的研究。2013年至2014年作为“图像处理与多媒体通信”境外研修团队负责人带领团队人员到台湾大学进行学术交流访问。",
+    "研究领域": "研究方向：    主要从事图像处理与网络视频通信、高速DSP与嵌入式应用系统设计、虚拟现实等领域的理论研究及关键技术研发，具体包括（1）新颖与高效的图像处理与分析，智能视频分析，视频压缩编码理论、技术和算法研究。（2）立体视频的分布式编码技术研究。（3）基于DSP和ARM的嵌入式视频图像处理、通信及应用系统的设计与实现。（4）虚拟现实的关键技术研发与应用系统设计。 主要成果：    主持或参与近10项国家自然科学基金及省部级自然科学基础研究项目，主持20余项校企合作研发课题；获江苏省教育教学成果一等奖1次，二等奖3次，校教育教学成果特等奖2次；参加第二届全国高校微课教学比赛荣获三等奖，主持《图像处理》课程获江苏省精品课程，参与编写《数字图像处理与图像通信》被评为国家“十一五”规划教材和江苏省精品教材；主持科研项目“异构网络中提升多媒体传输质量及用户体验的自适应控制体系”获江苏省科技进步三等奖，获南京市科技进步三等奖1次，在国内核心期刊和国际学术会议发表论文60余篇，独立和合编著作6部，申请或授权国家发明专利20余项，转让国家发明专利4项。2016年所指导研究生的“云图增强系统”作品荣获全国移动互联创新大赛高校组教学成果二等奖。"
+}
+{
+    "姓名": "刘佶鑫",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "liujixin@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "刘天亮",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "liutl@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "   "
+}
+{
+    "姓名": "卢官明",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "lugm@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "卢官明，男，1965年生，博士，教授，信号与信息处理学科学术带头人。1985年7月获南京邮电学院无线电工程专业学士学位；1988年3月获南京邮电学院通信与电子系统专业硕士学位；1999年3月获上海交通大学通信与信息系统专业博士学位；2001年9月至2003年9月在东南大学信息与通信工程学科博士后流动站从事博士后研究；2005年－2006年，以国家公派访问学者的身份在瑞典Umea大学进行合作研究；目前与瑞典Umea大学应用物理与电子系建立了联合培养博士研究生的良好关系。",
+    "研究领域": "研究多媒体信息，特别是图像和视频信息的处理、描述、应用系统和关键技术。包括：①图像和视频信息的处理及压缩编码；②图像和视频的数字水印；③流媒体技术及其应用系统的设计和实现；④智能视频分析；⑤人脸检测和识别；⑥新生儿疼痛表情识别。主要从事图像处理与多媒体通信、数字电视等领域的研究与教学工作，先后完成了包括国际合作项目、国家自然科学基金项目、江苏省基础研究计划（自然科学基金）项目、邮电部重大科技攻关项目在内的多项科研项目，目前负责主持1项国家自然科学基金项目。主编出版了多部国家级规划教材，其中《多媒体技术及应用》被评为普通高等教育国家级精品教材，获江苏省教育教学成果二等奖；《数字电视原理》被评为江苏省普通高等学校精品教材；《数字音频原理及应用》入选江苏省普通高等学校立项建设精品教材。在核心学术刊物上发表论文50多篇。"
+}
+{
+    "姓名": "吕斌",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "blyu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "吕斌，博士，南京邮电大学校长专聘副教授。2018年4月在南京邮电大学信号与信息处理专业获博士学位，获2019年“江苏省优秀博士学位论文”。长期在无线通信网络和智能物联网领域从事教学和科研工作，主要研究方向包括无线通信供电网络、反向散射通信、中继协同通信和智能反射面等无线通信理论前沿及关键技术。累计发表SCI/EI论文20余篇，其中以第一作者发表SCI论文13篇；授权专利2项，申请6项。主持国家自然科学基金、江苏省高等学校自然科学研究面上项目和教育部重点实验室开放课题等项目。",
+    "研究领域": "无线通信供电网络、反向散射通信、中继协同通信和智能反射面。"
+}
+{
+    "姓名": "梅中辉",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "meizh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "梅中辉，1976年11月生，博士。1996年至2003年在南京航空航天大学攻读学士学位和硕士学位，2003年至2007年在东南大学无线电系攻读博士学位，2007年到南京邮电大学工作。以第一作者在国内外核心杂志上发表学术论文近20余篇，多篇被SCI，EI检索。申请发明专利3项。",
+    "研究领域": "致力于下一代无线通信若干关键技术的研究，目前重点关注如下研究方向：1.网络编码技术：考虑网络编码的性能分析，网络编码的优化设计等。2.协作通信技术的研究：主要研究协作伙伴节点选择策略，以及协作通信技术中的信号检测技术。3.基于MIMO、CDMA系统的检测技术的研究：侧重于迭代检测技术的研究，在低复杂度软输入软输出检测算法研究领域已取得一定的学术成果。"
+}
+{
+    "姓名": "欧阳键",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "ouyangjian@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "欧阳键，博士，副教授，硕士研究生导师。分别于2007年、2010年和2014年获南京航空航天大学学士、硕士和博士学位，并获2013年度博士研究生国家奖学金。2014年6月进入南京邮电大学通信与信息工程学院工作，同年7月进入南京邮电大学“信息与通信工程”博士后流动站进行博士后研究。2015年8月至2016年9月期间在加拿大Concordia大学电子与计算机工程学院从事博士后研究。承担国家自然科学基金、江苏省自然科学基金、中国博士后基金、江苏省博士后基金、江苏省高校自然科学基金、教育部重点实验室开放课题各1项，参与国家自然科学基金国际合作重点项目、国家自然科学基金面上项目及省部级科研项目多项。已发表包括IEEE JSAC, IEEE TVT, IEEE Access, IEEE CL，IEEE ICC、Globecom、ICASSP等在内的国际知名期刊及会议学术论文70余篇。现为IEEE会员（IEEE member），担任IEEE ICC、Globecom、ICASSP和WCSP等通信领域知名国际会议的技术委员会委员（TPC member），是IEEE JSAC，IEEE TC，IEEE TWC, IEEE TVT，IEEE CL, IEEE WCL 等学术期刊审稿人。",
+    "研究领域": "一、研究方向\r（1）无人机通信技术\r（2）基于深度学习的信号处理技术\r（3）无线绿色安全传输技术\r\r二、部分代表性成果\r[1] Zhi Lin, Min Lin, Jian Ouyang, Wei-Ping Zhu, Athanasios D. Panagopoulos, Mohamed-Slim Alouini, \"Robust secure beamforming for multibeam satellite communication systems,\" IEEE Transactions on Vehicular Technology, vol. 68, no. 6, pp. 6202-6206, Jun. 2019.\r[2] Jian Ouyang, Min Lin, Wei-Ping Zhu, Tao Hong and Ba Xu, \"Distributed-relay beamforming for secrecy energy efficiency with coordinated eavesdroppers,\" IEEE Communications Letters, vol. 22, no. 5 pp. 1054-1057, May 2018. \r[3] Yuhan Jiang, Yulong Zou, Jian Ouyang, Jia Zhu, \"Secrecy energy efficiency optimization for artificial noise aided physical-layer security in OFDM-based cognitive radio networks,\" IEEE Transactions on Vehicular Technology, vol. 67, no. 12, pp. 11858-11872, Dec. 2018.\r[4] Kefeng Guo, Min Lin, Bangning Zhang, Jian Ouyang, Weiping Zhu, \"Secrecy performance of satellite wiretap channels with multi-user opportunistic scheduling,\" IEEE Wireless Communications Letters, vol. 7, no. 6, pp. 1054-1057, Dec. 2018.\r[5] Zhi Lin, Min Lin, Jian Ouyang, Wei-Ping Zhu, \"Beamforming for secure wireless information and power transfer in terrestrial networks coexisting with satellite networks,\" IEEE Signal Processing Letters, vol. 25, no. 8, pp. 1166-1170, Aug. 2018.\r[6] Pu Chen, Jian Ouyang, Wei-Ping Zhu and Min Lin, \"Energy efficient beamforming for multi-user transmission in cognitive radio networks with secrecy constraints,\" IEEE Access, vol. 6, pp. 74485- 74493, Dec. 2018.\r[7] Jian Ouyang, Min Lin, Yulong Zou, Wei-Ping Zhu, and Daniel Massicotte, \"Secrecy energy efficiency maximization in cognitive radio networks,\" IEEE Access, vol. 5, pp. 2641-2650, 2017.\r[8] Kang An, Min Lin, Jian Ouyang and Wei-Ping Zhu, \"Secure transmission in cognitive satellite terrestrial networks,\" IEEE Journal on Selected Areas in Communications, vol. 34, no. 11, pp. 3025-3037, Nov. 2016.\r[9] Min Lin, Jian Ouyang and Wei-Ping Zhu, \"Joint beamforming and power control for device-to-device communications underlaying cellular networks,\" IEEE Journal on Selected Areas in Communications, vol. 34, no. 1, pp. 138-150, Jan. 2016.\r[10] Kang An, Jian Ouyang and Min Lin, \"Outage analysis of multi-antenna cognitive hybrid satellite-terrestrial relay networks with beamforming,\" IEEE Communications Letters, vol. 19, no. 07, pp. 1157-1160, Jul. 2015.\r[11] Kang An, Min Lin, Jian Ouyang, Yongming Huang and Gan Zheng, \"Symbol error analysis of hybrid satellite–terrestrial cooperative networks with cochannel interference,\" IEEE Communications Letters, vol. 18, no. 11, pp. 1947-1950, Nov. 2014."
+}
+{
+    "姓名": "潘沛生",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "panps@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "潘沛生，男，1966年生，博士，教授，硕士生导师。1988年在内蒙古大学获得学士学位，1994年在南京航空航天大学获得硕士学位，专业均为计算机应用。2011年在南京邮电大学获得博士学位，专业为信号与信息处理。现在南京邮电大学 通信与信息学院任教。近年来以第一作者在《电子学报》等核心期刊和国际会议上发表论文十余篇，参加过多项横纵项目。目前是国际期刊 IEEE Trans. Vehicular Technology、IEEE Communication Letter ，国际会议 ICC、GLOBECOM的审稿人。",
+    "研究领域": "新一代无线通信中的若干问题：主要包括\r（1）无线异构系统的干扰管理和资源管理；\r（2）协作通信；\r（3）MIMO下链路通信系统及有限反馈。"
+}
+{
+    "姓名": "邱晓晖",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "qiuxh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "教授，工学博士。分别于1990年和1996年在南京航空航天大学获工学学士和工学博士学位。2000年至2002年分别在新加坡DSO雷达实验室任研究员、在美国Boise州立大学作博士后，从事雷达信号处理、图像信号处理领域的研究。2002年4月起至今在南京邮电大学工作。",
+    "研究领域": "从事信号分析、信号处理在相关领域应用的研究工作，具体方向包括（1）现代通信的智能信号处理（2）图像处理与模式识别（3）基于电磁兼容的信号分析主要成果：自工作以来，作为主要完成人获得部省级科技进步奖多项，2004年获得江苏省高校“青蓝工程”优秀骨干教师荣誉称号。主持航空科学基金等部省级项目5项，厅局级项目3项，主持横向课题多项，发表SCI、EI检索论文数十篇，授权发明专利2项。"
+}
+{
+    "姓名": "邵文泽",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "shaowenze@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "邵文泽，1981年10月生，江苏赣榆人。\r\r教育经历：\r    2004/09-2008/07，南京理工大学，模式识别与智能系统专业，工学博士（导师：韦志辉教授）；\r    2003/09-2004/08，南京理工大学，应用数学专业，理学硕士（提前攻博）；\r    1999/09-2003/06，南京理工大学，信息与计算科学专业，理学学士；\r\r工作经历：\r    2016/09--至今，   南京邮电大学，通信与信息工程学院，副教授；\r    2014/05-2015/06，Technion-以色列理工学院，计算机系，博士后（合作导师：Michael Elad教授）；\r    2012/01-2016/08，南京邮电大学，通信与信息工程学院，讲师；\r    2003/06-2011/12，南京军区，73061部队，军官；\r\r荣誉奖励：\r    2013年，南京邮电大学通信与信息工程学院南都奖教金（2等奖）；\r    2013年，南京市第十届自然科学优秀学术论文（3等奖）：《Multi-Parseval frame-based nonconvex sparse image deconvolution》；\r    2012年，领跑者5000—中国精品科技期刊顶尖学术论文 (F5000)：《压缩感知基本理论：回顾与展望》；\r    2009年，江苏省优秀博士论文：《基于图像建模理论的多幅图像正则化超分辨率重建算法研究》；\r    2008年，南京理工大学优秀博士论文；\r    2006年，江苏省高校研究生科技创新计划；\r    2003年，国防科工委委属高校优秀毕业生；\r\r基金项目：\r    2018.01-2021.12，主持国家自然科学基金面上项目（61771250）：甚低分辨率目标图像的非参数盲超分模型与快速算法研究；\r    2017.08-2019.07，主持通信与网络技术国家工程研究中心开放课题（TXKY17008）：基于图像大数据的甚低分辨率目标盲超分深度模型与算法研究；\r    2015.01-2017.12，主持国家自然科学基金青年项目（61402239）（结题中）；\r    2015.01-2016.12，主持南京理工大学江苏省社会安全图像与视频理解重点实验室开放课题（30920140122007）（已结题）；\r    2013.07-2016.06，主持江苏省自然科学基金青年项目（BK20130868）（已结题）；\r    2013.08-2015.12，主持江苏省高校自然科学研究面上项目（13KJB510022）（已结题）；\r    2014.01-2014.12，主持南京邮电大学自然科学研究基金项目（NY213013）（已结题）； \r    2013.01-2013.12，主持南京邮电大学自然科学研究基金项目（NY212039）（已结题）； \r    2012.06-2015.07，主持南京邮电大学引进人才启动基金项目（NY212014）（已结题）；\r\r学术服务：\r    南京邮电大学硕士生导师（2013/09-至今）；\r    国际期刊《IEEE Transactions on Signal Processing》(IEEE)审稿人；\r    国际期刊《IEEE Transactions on Image Processing》(IEEE)审稿人；\r    国际期刊《IEEE Transactions on Neural Networks and Learning Systems》(IEEE)审稿人；\r    国际期刊《IEEE Access》(IEEE)审稿人；\r    国际期刊《Multidimensional systems and Signal Processing》(Springer)审稿人；\r    国际期刊《Signal, Image and Video Processing》(Springer)审稿人；\r    国际期刊《Journal of Electronic Imaging》(SPIE)审稿人；\r    国际期刊《Pattern Recognition》(Elsevier)审稿人；\r    国际期刊《Multimedia Tools and Applications》(Elsevier)审稿人；\r    国际期刊《Information Sciences》(Elsevier)审稿人；\r    国际期刊《Neural Networks》(Elsevier)审稿人；\r    国际期刊《KSII Transactions on Internet and Information Systems》(TIIS)审稿人；\r    国内期刊《中国邮电高校学报（英文版）》审稿人；\r    国内期刊《电子与信息学报》审稿人；\r    国内期刊《计算机工程与科学》审稿人；\r\r学术主页：\r    https://www.researchgate.net/profile/WZ_Shao",
+    "研究领域": "研究领域：\r    Computational imaging（计算成像）\r    Computer vision （计算机视觉）\r    Variational optimization（变分优化）\r    Machine learning（机器学习）\r\r研究方向：\r    贝叶斯深度学习模型与算法: Bayesian deep learning, potentials of GAN, variational framework plugged in deep architectures, etc\r    非参数盲反卷积模型与算法: camera shake removal, object motion deblurring, nonparametric blind super-resolution, etc\r    超低清目标识别模型与算法: face recognition and person re-ID at a large distance (detection, joint deblurring & hallucination, etc)\r    视觉能见度恢复模型与算法: image defogging/dehazing, image deraining/desnowing, night-to-daytime conversion, etc    \r     \r发表论文:\r   - Qi Ge, Xiao-Yuan Jing, Fei Wu, Zhi-Hui Wei, Liang Xiao, Wen-Ze Shao, Dong Yue, Hai-Bo Li. Structure-based low-rank model with graph nuclear norm regularization for noise removal. IEEE Trans. Image Processing, 2017, 26(7): 3098-3112. (SCI)\r   - Chang-Xing Yang, Wen-Ze Shao, Li-Li Huang. Boosting normalized sparsity regularization for blind image deconvolution. Signal, Image and Video Processing, 2017 , 11 (4) : 1-8. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Qi Ge, Hai-Bo Li, Zhi-Hui Wei. Regularized motion blur-kernel estimation with adaptive sparse image prior learning. Pattern Recognition, 2016, 51: 402-424. (SCI)\r   - Wen-Ze Shao, Qi Ge, Hai-Song Deng, Zhi-Hui Wei, Hai-Bo Li. Motion deblurring using nonstationary image modeling. Journal of Mathematical Imaging and Vision, 2015, 52(2): 234-248. (SCI)\r   - Wen-Ze Shao, Hai-Bo Li, Michael Elad. Bi-l0-l2-norm regularization for blind motion deblurring. Journal of visual communication and image representation, 2015, 33: 42-59. (SCI)\r   - Wen-Ze Shao, Qi Ge, Hai-Song Deng, Zhi-Hui Wei, Hai-Bo Li. A unified optimization perspective to single/multi-observation blur-kernel estimation with applications to camera-shake deblurring and nonparametric blind super-resolution. Journal of Mathematical Imaging and Vision, 2016, 54(2): 216-239. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Zhi-Hui Wei. A posterior mean approach for MRF-based spatially adaptive multi- frame image super-resolution. Signal, Image and Video Processing, 2015, 9(2): 437-449. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Zhi-Hui Wei. Kullback-Leibler divergence based composite prior modeling for Bayesian super-resolution. Journal of Scientific Computing, 2014, 60(1): 60-78. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Zhi-Hui Wei. The magic of split augmented Lagrangians applied to K-frame based l0-l2 minimization image restoration. Signal, Image and Video Processing, 2014, 8(5): 975-983. (SCI)\r   - Wen-Ze Shao, Qi Ge, Zong-Liang Gan, Hai-Song Deng, Hai-Bo Li. A generalized robust minimization framework for low-rank matrix recovery. Mathematical Problems in Engineering, 2014, 656074, 8 pages. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Zhi-Hui Wei. An efficient and effective l0-l2 minimization algorithm for compres- sive imaging. Imaging Science Journal, 2014, 62(8): 423-436. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Zhi-Hui Wei. Multi-Parseval frame based nonconvex sparse image deconvolution. Optical Engineering, 2012, 51(2): 067008-1-12. (SCI)\r   - Wen-Ze Shao, Hai-Song Deng, Yi-Zhong Ma, Zhi-Hui Wei. Extended Gaussian Kriging for computer experiments in engineering design. Engineering with Computers, 2012, 28(2): 161-178. (SCI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Edge-and-corner preserving regularization for image interpolation and reconstruction. Image and Vision Computing, 2008, 26(12): 1591-1606. (SCI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Corner shock filtering and regularized image magnification. Journal of Electronic Imaging, 2008, 17(1): 013014-1-013014-11. (SCI)\r   - Hai-Song Deng, Wen-Ze Shao, Yi-Zhong Ma, Zhi-Hui Wei. Bayesian metamodeling for computer experiments using the Gaussian Kriging models. Quality and Reliability Engineering International, 2012, 28(4): 455-466. (SCI)\r   - Hai-Song Deng, Wen-Ze Shao, Yi-Zhong Ma. A Bayesian approach to Kriging metamodeling for computer experiments. Journal of Advanced Mechanical Design, Systems, and Manufacturing, 2012, 6(4): 404-419. (SCI)\r   - Qi Ge, Chuan-Song Li, Wen-Ze Shao, Hai-Bo Li. Hybrid active contour model with structured feature for image segmentation. Signal Processing, 2015, 108: 147-158. (SCI)\r   - Hai-Song Deng, Yi-Zhong Ma, Wen-Ze Shao, Yi-Liu Tu. A Bayesian metamodeling approach for Gaussian stochastic process models using a noninformative prior. Communications in Statistics: Theory and Method, 2012, 41(5): 829- 850. (SCI)\r   - Wen-Ze Shao, Michael Elad. Simple, accurate, and robust nonparametric blind super-resolution. Y.-J. Zhang (Ed.): ICIG 2015, Part III, Lecture Notes in Computer Science, 9219: 333–348, 2015. (EI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Theory of compressed sensing: review and perspectives. Journal of Image and Graphics of China（中国图象图形学报）, 2012, 17(1): 1-12.\r   - Wen-Ze Shao, Zhi-Hui Wei. Research on filtering behavior of structure tensor based image modeling approaches. Acta Electronica Sinica（电子学报）, 2011, 39(7):1556-1562. (EI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Multi-frame super-resolution reconstruction based on anisotropic Markov random field modeling. Acta Electronica Sinica（电子学报）, 2009, 36(6): 1256-1236. (EI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Local geometry driven image magnification and super-resolution. Journal of Image and Graphics of China（中国图象图形学报）, 2008, 13(07): 1235-1243.\r   - Wen-Ze Shao, Zhi-Hui Wei. Super-resolution reconstruction based on generalized Huber-MRF image modeling. Journal of Software（软件学报）, 2007, 18(10): 2434-2444. (EI)\r   - Wen-Ze Shao, Zhi-Hui Wei. A unified designing framework for nonlinear digital filters and behavior analysis. Chinese Journal of Computers（计算机学报）, 2007, 3(1): 91-102. (EI)\r   - Wen-Ze Shao, Zhi-Hui Wei. Bilateral digital total variation and image filtering. Journal of Image and Graphics of China（中国图象图形学报）, 2007, 12(7): 1178-1185.\r   - Hai-Song Deng, Yi-Zhong Ma, Wen-Ze Shao. Bayesiasn metamodeling for Kriging utilizing noninformative hyper prior. Journal of Systems Engineering and Electronics（系统工程与电子技术）, 2010, 32(11): 2341-2345. (EI)\r   - Hai-Song Deng, Yi-Zhong Ma, Wen-Ze Shao. Variable selection for regression splines using hierarchical sparseness prior. Journal of Systems Engineering and Electronics（系统工程与电子技术）, 2010, 32(12): 2725-2729. (EI)\r   - Yu-Bao Sun, Liang Xiao, Zhi-Hui Wei, Wen-Ze Shao. Sparse representations of images by a multi-component Gabor perception dictionary（自动化学报）. Acta Automatica Sinica, 2008, 34(11): 1379-1387. (EI)\r\r报考指南：\r    Welcome all the students join us if\r    - you are interested in artificial intelligence, computational photography, computer vision, and machine learning;\r    - you are willing to work on practical image and vision problems in the real-world life;\r    - you are highly motivated and skilled in mathematics and perhaps statistics;\r    - you are familiar with C++/MATLAB/python or perhaps OpenCV;\r    - you are from Electrical Engineering（电气工程）, Computer Science（计算机科学）, Electronic Information Engineering（电子信息工程）, Automation（自动化）, Computational Mathematics（计算数学）, Applied Statistics（应用统计）, etc."
+}
+{
+    "姓名": "邵曦",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "shaoxi@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "邵曦，博士，副教授,1999年6月与2002年4月分别获得南京邮电大学计算机科学与技术系工学学士学位与工学硕士学位。2007年4月，获得新加坡国立大学(National University of Singapore)计算机学院（School of Computing）哲学博士学位。博士研究方向为多媒体系统与基于内容的音乐信息检索。目前担任IEEE Trans on Multimedia, IEEE Trans on Audio Speech and Language Processing, IEEE Trans on Information Forensic and Security, ACM Trans on Multimedia Computing Communications and Applications, Multimedia Systems Journal,韩国研究院ETRI (Electronics and Telecommunications Research Institute) 等期刊的审稿人(Reviewer)。担任过ACM SIG on Multimedia Conference 2008, International Conference on Internet and Multimedia Systems and Applications 2008，International Conference on Wireless Communications and Signal Processing(WCSP 2009,2010,2011) 等国际会议的学术委员会 (Technical Program Committee) 委员。",
+    "研究领域": "作为主要研究者参与完成多项新加坡科技研究发展局（Agency for Science， Technology and Research）的国家级重点项目。2007年9月开始在南京邮电大学任教。近年来在国际会议和国际核心刊物上发表20余篇学术论文，出版专著一本,目前主持国家自然科学基金与留学归国启动基金项目各一项，作为主要参与者完成国家863重点项目与国家自然科学基金各一项。研究方向主要为多媒体信息系统与多媒体通信.特别是基于内容的多媒体信息检索与多媒体通信网络的跨层设计.另外,在信号处理领域,研究兴趣为音频信号的盲源分离,阵列信号处理,量子滤波等."
+}
+{
+    "姓名": "盛宇波",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "shengyb@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "盛宇波，男，1981年生，江苏常州人。2009年6月博士毕业于北京师范大学。2009年7月-2011年6月于清华大学从事博士后研究工作。同年6月进入南京邮电大学工作。2012年晋升为副教授，2016年破格晋升为教授。目前担任亚太物理联合会通报(AAPPS Bulletin) 副主编，Science China Phys. Mech. Astron.(中英文双刊)编委，Nature旗下Scientific Reports编委，Quantum Engineering编委，中国物理学会咨询工作委员会委员。获中国电子学会科学技术一等奖(自然科学奖，排名第三)，江苏省教育科学研究成果奖(自然科学二等奖)一项(排名第一)、南京邮电大学科学技术奖励特等奖一项（排名第一）。入选南京邮电大学“鼎山”、“鼎新”学者、江苏省“青蓝工程”中青年学术带头人称号。现主持国家自然科学基金面上项目一项，主持结题国家自然科学基金面上项目、青年基金一项，省部级项目等4项。",
+    "研究领域": "主要从事与信号与信息处理、信息安全和保密通信包括量子通信、量子信息处理等前沿领域研究。共发表SCI学术论文100篇，被SCI论文引用3700多次。11篇论文入选ESI高被引论文、7篇论文引用超过100次。个人H因子33。发表的学术论文被多个国际、国内相关领域专家如美国工程院院士、奥地利科学院院士、德国科学院院士、澳大利亚科学院院士、APS、OSA、IEEE、AAAS Fellow等正面引用。目前共培养硕士研究生9人，包括已毕业研究生5人，在读4人。已毕业的5名研究生均获得研究生国家奖学金(2万/人)，其中4人获得南京邮电大学校级优秀硕士论文。 目前毕业研究生就业范围：苏州移动、中兴、烽火通信等多个国企、公司等。"
+}
+{
+    "姓名": "时艳玲",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "ylshi@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "宋建新",
+    "性别": "男",
+    "导师类型": null,
+    "技术职称": "教授",
+    "邮箱": "songjx@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "宋建新，男,博士，教授。1998年毕业于上海交通大学，并获博士学位。2001年-2002年在香港科技大学作博士后研究工作, 负责流媒体项目的研究工作。长期从事通信与多媒体相关的科研与教学工作。先后以第一作者在《电子学报》，《通信学报》和《The Journal of China Universities of Posts and Telecommunications》（邮电高校联合学报）及国内国际学术会议上发表学术论文十余篇。主编出版《数据通信》，合作出版《多媒体网络通信技术与应用》等著作。作为负责人完成包括原邮电部、省教育厅等在内的多项纵向和横向科研项目。先后与包括华为技术有限公司等在内的多家企业合作研究SIP多媒体系统及P2P流媒体系统等。目前还担任《通信学报》、《电子学报》、《电子与信息学报》等学术刊物的审稿人。"
+}
+{
+    "姓名": "孙林慧",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "sunlh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "主要研究内容包括：机器学习、深度神经网络理论及在语音信号处理中的应用，新的压缩感知和非线性自适应语音信号处理理论，语音和音频信号在复杂环境中的增强和盲源分离技术，语音情感和说话人识别，语音信号的特征提取和建模、高质量低码率压缩技术，多语言环境下的语音识别和转换技术，语音信息的隐藏、截获、攻击、加密技术，各种通信网络环境中的实时语音通信技术，多媒体信息的处理与传输技术，阵列信号处理等。欢迎具有一定创新能力和探索精神，喜爱学习的同学报考。"
+}
+{
+    "姓名": "孙宁",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "sunning@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "孙宁，男，1978年6月生，博士，副教授，高级工程师。2007年毕业于东南大学信号与信息处理专业，获博士学位。同年，进入中国电子科技集团公司第二十八研究所工作，从事光电预警探测领域相关系统的研制开发工作。2010年，入选中国电科28所学术技术带头人培养工程（第三层次）。2011年，入选江苏省第四期“333高层次人才培养工程”（第三层次）。2012年至今，南京邮电大学宽带无线通信技术教育部工程研究中心任教职。2018年至2019年，美国哥伦比亚大学访问学者。 ",
+    "研究领域": "<研究方向>"
+}
+{
+    "姓名": "唐贵进",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "tanggj@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "唐贵进，男，1979年生，博士，副教授，硕士生导师，中国图象图形学会会员，江苏省精品课程《图像处理》成员，南京邮电大学图像处理优秀教学团队和信息论基础优秀教学团队成员。现任职于南京邮电大学通信与信息工程学院（江苏省图像处理与图像通信重点实验室），从事图像处理、视频分析、多媒体通信等方面的教学和科研工作。\r\r2014年国家公派留学基金获得者，2015-2016年访学澳大利亚。主持江苏省科协提升计划项目、江苏省博士研究生创新计划项目、南京大学计算机软件新技术国家重点实验室开放课题、南京邮电大学青蓝计划项目、校企合作课题等，参与多项国家、省部级科研项目的研究。2013年荣获江苏省科学技术奖三等奖。获授权国家发明专利3项。\r\r2018年荣获江苏省本科高校青年教师教学竞赛工科组一等奖，并被省总工会授“江苏省五一创新能手”。2017年荣获全国高等学校电子信息类专业青年教师授课竞赛二等奖。2018年荣获南京邮电大学“教学标兵”，2016年荣获南京邮电大学青年教师授课竞赛一等奖。多次担任大学生创新竞赛指导老师，曾荣获全国大学生电子设计竞赛全国一等奖（指导老师）和江苏省一等奖（指导老师）、南京邮电大学“创新”杯竞赛三等奖（指导老师）等。",
+    "研究领域": "从事图像处理、视频分析、多媒体通信等方面的工作，主要包括：\r（1）图像与视频信息处理（包括图像处理、视频重建、视频质量评价等）。\r（2）智能视频分析（包括跨线检测、视频跟踪、多摄像机协同等）。\r（3）视频编码与传输（包括视频编解码算法、异构网络上视频流的传输、视频资源分配等）。"
+}
+{
+    "姓名": "唐加山",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "tangjs@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "田峰",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "tianf@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "田峰，山东枣庄人，2008年毕业于南京邮电大学通信与信息工程学院，获博士学位，专业为信号与信息处理。现为南京邮电大学通信与信息工程学院教授，院长助理。一直从事无线通信与网络信号处理方面的科研工作，入选江苏省333工程中青年学术带头人和江苏省青蓝工程优秀青年骨干教师，南邮国家工程研究中心和教育部重点实验室学术骨干。2013年9月至2015年8月期间，国家留学基金委公派留学项目资助赴美国弗吉尼亚理工大学做访问学者。同时是IEEE Member，中国通信标准化协会物联网技术工作委员会副组长。曾担任IEEE Network、IEEE Transactions on Cognitive Communications and Networking和通信学报等国内外期刊审稿人，国际会议IEEE WCSP、IWCMC-Multimedia和ICC workshop TPC Member。",
+    "研究领域": ""
+}
+{
+    "姓名": "万新旺",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "wanxw@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "万新旺，男，工学博士，副教授，硕士生导师。1996年毕业于南昌大学，获无线电技术专业学士学位；2001年毕业于杭州第七一五研究所，获水声工程专业硕士学位；2011年毕业于东南大学信息科学与工程学院，获信号与信息处理专业博士学位。\r\r曾在研究所工作多年，具有较强的理论基础及较丰富的工程实践经验；2011年起任职于南京邮电大学通信与信息工程学院。",
+    "研究领域": "以第一作者在《Journal of the Acoustical Society of America》和《Applied Acoustics》上发表多篇论文，发表了被SCI/EI引用的论文十多篇。\r\r主持并完成国家级基金项目一项、南邮引进人才启动基金项目一项；参与并完成国家级/省部级基金项目若干项；参与在研国家级基金项目若干项。\r\r目前主持在研军工纵向/横向项目若干项，主要研究内容如下：\r1. 信号处理算法方面：机器学习；弱信号检测、降噪；目标识别；目标定位；\r2. 硬件处理系统方面：研发信号采集及信号处理系统。\r\r研究方向：\r1. 机器学习；\r2. 多传感器信号处理；\r3. 声信号处理；\r4. 磁信号处理。"
+}
+{
+    "姓名": "王保云",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "bywang@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "1997年毕业于东南大学无线电工程系，取得信号与信息处理专业工学博士学位。 同年进入南京邮电大学工作，分别于1999年、2004年破格晋升副教授、教授职称， 2008年获博士生指导教师资格。1999年至2000年在韩国浦项工科大学计算机科学与工程系、2000年至2002年在香港城市大学电子工程系、2004年至2005年在澳大利亚西悉尼大学数学与计算机科学系从事访问研究。现为南京邮电大学信息与通信工程学科及模式识别与智能学科教授。主持或参与了国家自然科学基金、国家863高技术项目，江苏省自然科学基金重点项目等多项课题研究。担任IEEE南京分会信号处理学会副主席。",
+    "研究领域": "在国内外学术刊物及重要学术会议上发表学术论文80余篇，其中包括IEEE Trans. Neural Networks, IEEE Trans. Vehicular Technology, IEEE Trans. Circuits and Systems I and II, IEEE Signal Processing Letters, IEEE Communication Letters, IEEE Wireless Communication Letters, Pattern Recognition, IEEE ISIT, IEEE ICC, IEEE Globecomm, IEEE ICASSP, IEEE ISCAS等。获授权发明专利五项。目前主要研究方向： 无线通信中的信号处理技术，机器学习与模式识别"
+}
+{
+    "姓名": "王诚",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "wangc@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "王诚，男，中共党员，南京邮电大学通信与信息工程学院副教授，硕士生导师。多年来，一直从事物联网技术、智能数据处理、数据挖掘、互联网大数据挖掘等方面的研究，在学校承担了相关专业的本科及研究生教学工作；主编教材《ARM嵌入式系统原理及应用开发》、《Java实用编程技术》、《Java实用编程技术及项目实战》等三部；发表相关论文二十余篇；申请专利10余项并或获发明授权5项。工作期间，主持参与多项物联网及企业信息化项目实施，如《电信Cognos综合信息管理及决策分平台》、《智慧路灯及节能管理平台》、《公安情报信息分析平台》、《智慧后勤在线服务平台》、《数据中心能源监控管理平台》；主持参与多个设计项目，如《某沿海经济开发区规划设计项目》、《某化工园区应急响应规划设计》、《某化工园区封闭管理方案》等；在校期间，作为项目负责人主持《江苏省十二五智慧旅游规划》等课题项目的研发并   结项。",
+    "研究领域": "研究方向：物联网相关技术、云计算、智能数据处理、互联网大数据挖掘。研究内容： 1、大数据环境下企业级应用平台研究2、基于web移动互联网应用及大规模并行计算3、互联网大数据挖掘相关算法及应用4、相似项发现及文档哈希算法研究5、基于粗糙集理论及分类算法研究6、基于内容及协同过滤推荐算法研究。 欢迎立志于工程应用研究及具有一定创新能力和探索精神的同学加入。"
+}
+{
+    "姓名": "王瑾",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "jinwang@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "南京邮电大学教授，博士生导师 ",
+    "研究领域": "－：有机及无机光波导材料与器件 "
+}
+{
+    "姓名": "王磊",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "wanglei@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "王力谦",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "wanglq@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "毕业于南京理工大学，分别于2006年、2008年和2015年获理学学士、工学硕士和工学博士学位。目前从事信号与信息处理等方面的教学科研工作。主持国家自然科学基金青年项目、江苏省自然科学基金青年项目、江苏省高校自然科学研究面上项目各一项，并作为主要成员参与多项国家自然科学基金项目；以第一作者在Signal Processing，IEEE Transactions on Image Processing等国际学术刊物和会议上发表多篇学术论文，获得2项国家发明专利授权。担任Signal Processing，IEEE Transactions on Image Processing，IEEE Intelligent Transportation Systems Magazine，Journal of Real-Time Image Processing等多个学术期刊的审稿人。",
+    "研究领域": "主要研究方向为图像处理与计算机视觉（图像复原、图像增强、超分辨率重建等），模式识别与机器学习算法。 "
+}
+{
+    "姓名": "王琴",
+    "性别": "女",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "qinw@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "近几年王琴教授在量子信息领域做出了一系列创新性的科研成果，作为第一作者（或通信作者）在国际主要学术期刊，如Phys. Rev. Lett.、Phys. Rev. Applied、Optics Letters、Optics Express等发表高水平SCI论文六十多篇，研究工作被 Nature Communications、ACS NANO、Rep. Prog. Phys.、Phys. Rev Lett.等国际一流学术期刊引用，并多次受邀参加国际会议作报告。 王琴教授目前主持多个国家级和省部级自然科学基金项目，其中包括：2015、2017年分别获得国家自然科学基金面上项目“基于量子光源的量子密钥分配的理论与实验研究”、“新型被动式诱骗态量子密钥分配的理论与实验研究”；2015年获得江苏省杰出青年项目以及江苏省高校自然科学基金重大项目等；2018年担任国家重点研发计划“量子调控与量子信息”重点专项“高性能量子密钥分发关键技术研究”课题负责人；还作为主要学术骨干参与国家重点研发计划“量子调控与量子信息”重点专项“固态量子存储器”项目，以及国家自然科学基金重大项目“飞秒激光直写功能化量子芯片构架设计与应用”项目等。 此外，曾主持或参与欧盟或丹麦自然科学基金项目，包括：欧盟第七框架计划“Qubit Applications”（QAP）子课题、“Development of a Global Network for Secure Communication based on Quantum Cryptography”（SECOQC）子课题、丹麦自然科学基金项目“Quantum memory with self-assembled quantum dot devices”、“Nanophotonic single-photon source for quantum information technology”等。"
+}
+{
+    "姓名": "王友国",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "wangyg@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "   "
+}
+{
+    "姓名": "魏昕",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "xwei@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "魏昕，男，副教授，工学博士。2005年6月毕业于南京邮电大学电子科学与技术专业，获学士学位；2009年9月毕业于东南大学信息与通信工程专业，获博士学位（硕博连读）。2009年10月至2011年10月在浙江大学信息与电子工程学系做博士后研究。2011年11月进入南京邮电大学通信与信息工程学院工作，2013年5月晋升为副教授、硕士生导师，其中，2014年8至11月受江苏省政府留学基金资助赴美国内布拉斯加-林肯大学访学。",
+    "研究领域": "目前的研究方向为多媒体信息处理，多媒体通信，大数据，机器学习等，作为项目负责人主持完成国家自然科学基金青年项目，江苏省自然科学基金面上项目，江苏省高校自然科学研究项目，中国博士后科学基金等项目，此外，完成多项产学研横向课题，为江苏省青蓝工程创新团队骨干成员。近年来，在国际国内核心学术期刊和会议上发表SCI、EI收录论文五十余篇，出版英文学术专著1本；获得中国通信学会自然科学奖、江苏省教育科学研究成果奖等多项学术奖励；获得授权发明专利12项。所指导的研究生中，3人获得国家奖学金，8人获得全国数学建模竞赛奖。欢迎对多媒体信息处理，多媒体通信，大数据，机器学习研究方向感兴趣的同学报考，联系方式：xwei@njupt.edu.cn"
+}
+{
+    "姓名": "吴蒙",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "wum@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理,(0810Z1)信息安全",
+    "个人简介": "博士、教授、博导，南京邮电大学校学术委员会委员、校学位委员会委员，南京邮电大学“信息安全”博士点学科带头人。1993 年毕业东南大学获博士学位，1996 年被评为江苏省优秀青年骨干教师，1997 年被评为江苏省333 工程跨世纪人才第三层次培养对象，2002 年被评为江苏省普通高校青蓝工程中青年学术带头人培养对象，2006年被评为江苏省六大高峰人才培养对象。《中国邮电高校学报》、《数据采集与处理》等学术刊物编委，江苏省电子学会通信专业委员会主任委员，江苏省信息安全咨询专家委员会委员。",
+    "研究领域": "主要从事无线网络、传感器网络及信息安全等方面的研究工作，包括安全可信的无线传感器网络、物联网隐私保护、Zigbee技术、异构无线网络等。主持完成国家863 项目、及省部级科研项目二十余项，发表论文150 余篇，其中SCI、EI收录50余篇，获国家发明专利6项。    招生专业和方向1、 通信与信息工程学院“信号与信息处理”专业（学术型研究生） 　　无线通信与信号处理技术 　　本研究方向面向无线网络理论和技术，研究adhoc自组织网络、无线局域网802.11、无线城域网802.16、3G/4G、物联网/传感器网络、及异构网络融合等新一代无线通信网络，研究相关的通信和信号处理技术。 2、计算机学院“信息安全”专业（学术型研究生） 　　无线网络安全、通信系统的信息安全 　　本研究方向主要面向无线网络、物联网/传感网相关的信息安全技术，研究保证加解密技术，接入认证、密钥分配、入侵检测技术、公共密钥基础PKI、自织织管理与控制、隐私保护和信息溯源等信息安全技术，重在新理论、新技术和新应用。 3、通信与信息工程学院“电子与通信”专业（专业硕士） 　　无线通信、移动通信、嵌入式系统4、计算机学院“计算机应用技术”专业（专业硕士）　　嵌入式系统软硬件开发"
+}
+{
+    "姓名": "吴伟",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "weiwu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "吴晓富",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "研究员",
+    "邮箱": "xfuwu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "吴晓富，校长特聘教授，博士生导师，通信与信息工程学院\\信息处理与传输研究院研究员。1992年-1999年期间在南京通信工程学院学习，并分别于1996、1999年获得学士、硕士学位，随后留校任教。2001年-2005年期间在北京大学学习，并于2005年7月毕业于北京大学，获工学博士学位，论文被北京大学评为优秀博士论文。2006-2007年在东南大学移动通信国家重点实验室作博士后研究，全国博士后基金一等资助获得者，出站时被东南大学评为优秀博士后，同时被评定为副研究员。2001年成功申请并主持国家863项目“极低信噪比下的Turbo接收机研究”，2007年获得江苏省自然科学创新人才项目, 2013年入选“江苏省333高层次培养工程”。他是多个国际会议的技术委员会成员（TPC member），包括ICC，Globecom，APCC，IWCMC，WCSP等。作为课题组组长主持过国家863项目2项, 国家自然科学基金4项。",
+    "研究领域": "1、研究方向涉及机器学习(人工智能信号处理）与计算视觉、密码学与信息安全、编码与信息论、统计信号处理、无线与深空通信、导航信号处理。最近研究兴趣为：\r(1) 基于统计信号处理的机器学习算法研究，重点包括无监督/弱监督机器学习算法设计及其GPU编程实现；\r(2) 机器学习算法（人工智能信号处理）在图像/视频理解、大数据挖掘、数据搜索、生物特征识别（例如人脸识别）中的应用研究；\r(3) 融入信息论安全性的无线异构网络（如物联网、无线传感器网）的认证与密钥协商机制设计；\r(4) 人工智能信号处理与无线网络安全，重点是基于人工智能算法的网络攻击及其检测；\r(5) 机器学习算法的FPGA硬件加速架构及其具体实现研究（较适合工程硕士）。\r\r2、论文发表: 多年来共发表包括IEEE Trans.Inform.Theory在内的国际权威期刊论文30余篇，全部被SCI收录。\r   吴晓富博士发表的重要国际期刊论文列表（Journal Publications）: \r[1]. Xiaofu Wu, Z. Yang, C. Ling, and X.-G. Xia, Artificial-Noise-Aided Physical Layer Phase Challenge-Response Authentication for Practical OFDM Transmission, IEEE Trans. Wireless Commun., vol. 15, no. 10, pp. 6611-6625, Oct. 2016.\r[2]. Xiaofu Wu, Z. Yang, C. Ling, and X.-G. Xia, Artificial-Noise-Aided Message Authentication Codes with Information-Theoretic Security, IEEE Trans. Information Forensics and Security, vol. 11, no. 6, pp. 1278-1290, Jun. 2016.\r[3]. Xiaofu Wu and Zhen Yang, Coding vs. Spreading for Narrowband interference suppression , IEEE Trans. Vech.Tech., Apr. 2016.\r[4]. Xiaofu Wu, Embedded Physical-Layer Authentication in Cognitive Radio Requires Efficient Low-Rate Channel Coding Schemes, IET Commun. Accepted, Oct. 2016. \r[5]. Xiaofu Wu and Zhen Yang, Physical-Layer Authentication for Multi-Carrier Transmission,  IEEE Commun. Lett., vol. 19,no.1, pp. 74–77, Jan. 2015.\r[6]. Xiaofu Wu, Chunming Zhao, Xiaohu You, Joint LDPC and Physical-Layer Network Coding for Asynchronous Bi-Directional Relaying ，IEEE Journal on Selected Areas in Communications, vol.31, no. 8, pp. 1446-1454, Aug. 2013.\r[7]. Xiaofu Wu, Zhen Yang, Verification-based interval-passing algorithm for compressed sensing, IEEE Signal Processing Letters, vol. 20, no. 10, pp. 933-936,  Oct. 2013. \r[8]. X. Sun, Xiaofu Wu, M. Jiang, C. Zhao, \"Optimized rate-compatible -irregular-repeat accumulate code for asymmetric Slepian–Wolf coding,\" IET Commun., Vol. 6, pp. 413–418, Jun. 2012.\r[9]. Xiaofu Wu, Y.Song, C.Zhao and X.You. “Progressive frequency -compensation in turbo receivers,” IEEE Trans. Wireless-COM, vol.10, pp.702-709, Feb. 2011. \r[10]. Xiaofu Wu, Y. Song, M.Jiang and C. Zhao,“Adaptive-Normalized/Offset Min-Sum Algorithm,” IEEE Commun. Lett.,  pp.667-669, July 2010.\r[11]. Xiaofu Wu, Cong Ling, Ming Jiang, Enyang Xu, Chunming Zhao, and Xiaohu You, “New insights into weighted bit-flipping decoding Communications,” IEEE Trans. Commun., vol. 57, pp. 2177 – 2180, Aug. 2009.\r[12]. Xiaojian Liu, Xiaofu Wu, and Chunming Zhao, “Shortening for Irregular QC-LDPC Codes,” IEEE Commun.Lett., vol.13, pp. 612-614, Aug. 2009\r[13]. C.Pan, Y. Cai, Xiaofu Wu, W.Yang and Y.Xu, “Space sense random access with collision mitigation in uplink WLANs,” IEEE Commun.Lett., vol.13, pp.709-711, Sept. 2009. \r[14]. Xiaofu Wu, et al., “A necessary and sufficient condition on determining the girth of Quasi-cyclic LDPC codes,” IEEE Trans. Commun., Jun. 2008.\r[15]. Cong Ling and Xiaofu Wu, “A back-iteration method for reconstructing chaotic sequences in finite-precision machines,” Circuits, Syst., Signal Processing, vol. 27, pp. 883 – 891, Oct. 2008.\r[16]. Xiaofu Wu, Haige Xiang and Cong Ling, “New Gallager bounds in block fading channels,” IEEE Trans. Inform. Theory, vol. 53, pp. 684-694, Feb. 2007.\r[17]. Xiaofu Wu, et al., “Robust Diversity-combining receivers for LDPC coded FFH-SS systems,” IEEE Commun. Lett., July. 2007.\r[18]. Xiaofu Wu, et al., “Parallel weighted bit-flipping decoding,”  IEEE Commun. Lett., Aug. 2007.\r[19]. Cong Ling, Xiaofu Wu, K. H. Li, and A. C. Kot, “Gallager bounds for noncoherent decoders in fading channels,” IEEE Trans. Inform. Theory, vol. 53, pp. 4605-4614, Dec. 2007.\r[20]. Xiaofu Wu, Haige Xiang, Cong Ling, Xiaohu You, and Shaoqian Li, “Bounds on the decoding error probability of binary block codes over noncoherent block AWGN and fading channels,” IEEE Trans. Wireless Commun., vol. 5, pp. 3193-3203, Nov. 2006.\r[21]. Xiaofu Wu, et al., “On the asymptotic input-output weight distributions of some accumulate-based codes,\" IEEE Trans.Commun, vol. 54, pp. 1154-1159, July 2006.\r[22]. Xiaofu Wu, et al., “Iterative carrier phase recovery methods in turbo receivers,” IEEE Commun.Lett. vol.9, pp.735-737, Aug., 2005.\r[23]. Xiaofu Wu, et al., “The Engadahl-Zigaginov bound for binary coded system over block fading channels,” IEEE Commun.Lett. vol.9, pp.726-728, Aug., 2005.\r[24]. Xiaofu Wu, et al., “On concatenated zigzag codes and their decoding schemes,” IEEE Commun.Lett. vol.8, pp.54-56, Jan., 2004\r[25]. Ling Cong and Wu Xiaofu, \"Design and implementation of an FPGA-based generator for chaotic frequency hopping sequences,\" IEEE Trans. CAS-I, vol. 48, pp. 521-532, May 2001.\r[26]. Ling Cong, Wu Xiaofu and Yi Xiaoxin, \"On SOVA for nonbinary codes,\" IEEE Commun. Lett., vol. 3, pp. 335-337, Dec. 1999.\r[27]. Xiaofu Wu, Cong Ling and Songgeng Sun, \"Data-aided phase tracking detection of frequency-shifted DPSK signals with baseband frequency-drift compensation,\" Electron. Lett., vol.35, no.15, pp. 1222-1223, July 1999.\r[28]. Ling Cong, Wu Xiaofu and Sun Songgeng, \"A general efficient method for chaotic signal estimation,\" IEEE Trans. Signal Processing, vol. 47, pp. 1424-1427, May 1999.\r[29]. Xiaofu Wu, et al., “Data-aided phase tracking detection of frequency-shifted DPSK signals with baseband frequency-drift compensation,” IEE Electron. Lett., vol.35, no.15, pp. 1222-1223, July 1999.\r[30]. Xiaofu Wu and Sun Songgeng, “Block demodulation of MDPSK with low complexity,” IEE Electron. Lett., vol.34, no.5, pp.428-429, Mar.1998.\r[31]. Xiaofu Wu and Sun Songgeng. “Low complexity multi-symbol differential detection of MPSK over flat correlated fading channels,” IEE Electron. Lett.,vol.34, no.21, pp. 2008-2009, Oct. 1998.\r\r3、学术兼职: 是IEEE Trans.Inform.Theory, IEEE Trans. Inf. Forensics Security, IEEE Trans. Commun., IEEE Trans.Signal. Proc., IEEE Trans. IEEE Trans. Vech. Tech., IEEE Commun. Lett., IEEE J.SAC等多种IEEE期刊的审稿人。作为多个国际会议的技术委员会成员（TPC member），包括Globecom，APCC，MASS，CHINACOM，IWCMC，WCSP等。\r\r4、产品化应用: 吴晓富博士参与过多项卫星通信有关的产品设计，主要负责设计过LDPC编译码器、TPC编译器、Raptor喷泉编译码器、各类(极低信噪比）卫星调制解调器，目前这些具有一定知识产权的IP核已在实际卫星通信系统中得到广泛应用。\r\r5、主持项目: 作为课题组组长主持国家自然科学基金4项，国家863项目2项，江苏省自然科学基金创新人才项目1项。具体列表如下：\r[1] 国家863项目, 批准号2009AA01Z235, 极低谱密度无线传输中的码设计及迭代载波恢复, 2009.01-2010.12，73万，完成，项目负责人；\r[2] 国家863项目,批准号2001AA123052,极低信噪比下Turbo接收机的研究, 2001.12-2003.12，30万，完成（优秀，Ab），项目负责人；\r[3] 国家自然科学基金项目，批准号61372123，基于信道编译码的压缩感知研究，2014.01-2017.12，82万，在研，项目负责人； \r[4] 国家自然科学基金项目，批准号60972060，无线自组织网络的分布式纠错机制研究，2010.01-2012.12，30万，完成，项目负责人； \r[5] 国家自然科学基金项目，批准号60672081，有限长LDPC码的迭代解码分析及好码设计，2007.1-2009.12，26万，完成，项目负责人； \r[6] 国家自然科学基金项目，批准号60402026，高速空时Shannon极限码的设计和联合迭代解调解码算法研究，2005.1-2005-12，6万，完成，项目负责人；\r[7] 江苏省自然科学创新人才项目，批准号BK2006502，有限长空时LDPC的迭代解码分析与好码设计，2007.1-2008.12，15万，完成(优秀)，项目负责人；\r[8] 中国博士后基金项目(一等资助)，批准号20060390274，有限长LDPC码的迭代解码分析，2007.1-2008.12，5万，完成，项目负责人。\r[9] 东大移动通信重点实验室基金项目, 衰落信道下Shannon极限码的性能分析、码设计和解调解码算法研究，2004.01-2005.12, 3万，项目负责人。\r[10]东大移动通信重点实验室基金项目, 近香农限高速编码调制技术研究，2008.01-2009.12, 5万，项目负责人。\r[11]东大移动通信重点实验室基金项目, 频率选择性衰落信道下LDPC/Turbo编码OFDM调制系统的设计及其迭代处理算法研究，2005.01-2006.12, 5万，项目负责人。\r[12]东大移动通信重点实验室基金项目, 无线物理层加密的信息论基础及编码研究，2010.01-2012.12, 10万，项目负责人。\r       \r    作为副组长参与的国家自然科学基金重点项目以及863项目：\r[1] 国家自然科学基金重点项目，批准号61032004，基于行星际互联网的深空通信理论与技术，2011.1-2014-12，220万，在研，副组长；\r[2] 国家863项目，批准号2006AA01Z263，高效信道编解码技术研究，2006.12-2008.12，86万，完成，副组长。"
+}
+{
+    "姓名": "吴晓欢",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "xiaohuanwu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "阵列信号处理、无源定位、通信信号处理等。"
+}
+{
+    "姓名": "谢世朋",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "xie@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "谢世朋，副教授，博士，1982年生，   南京邮电大学 江苏省图像处理与图像通信重点实验室 信号与信息处理方向硕士生导师。江苏省“双创”人才，江苏省“六大人才高峰”。   主要从事人工智能与深度学习、医学图像处理与科学可视化、生物医学等方面教学与科研工作。   作为第一负责人主持国家自然科学基金1项、江苏省科技计划社会发展项目（科技重大示范）1项、江苏省自然科学基金1项、江苏省高校自然科学基金1项、江苏省科协科技能力提升计划（首席专家）项目1项、江苏省科协科技服务站2项、江苏省研究生工作站1项及横向项目多项等。指导学生获得江苏省研究生创新计划、全国大学生物联网技术与应用“三创”大赛一等奖、江苏省优秀本科毕业设计、省级和校STITP(大学生创新训练计划)优秀等。",
+    "研究领域": "（1）人工智能（2）医学图像处理（3）计算机视觉 发表论文20余篇，授权发明专利4项。代表作：(1)Shipeng Xie, et al. Scatter artifacts removal using Learning-based method for CBCT in IGRT system, IEEE Access, 2018(2)Shipeng Xie, et al.  Artifact Removal using Improved GoogLeNet for Sparse-view CT Reconstruction. Scientific Reports, 2018, 8(1):6700.(3)Shipeng Xie, et al. Sparse-view CT reconstruction with improved GoogLeNet,SPIE 2018, Medical Image.(4)Shipeng Xie, et al.Blind deconvolution combined with level set method for correcting Cupping Artifacts in Cone Beam CT,SPIE 2017, Medical Image.(5)Shipeng Xie, et al. An energy minimization method for the correction of cupping artifacts in cone-beam CT[J]. Journal of Applied Clinical Medical Physics, 2016, 17(4):307-319.(6)Shipeng Xie, et al. A level set method for cupping artifact correction in cone-beam CT.[J]. Medical Physics, 2015, 42(8):4888.(7)Shipeng Xie, Limin Luo. Scatter correction for cone beam CT using self-adaptive scatter kernel superposition. Chinese Physics C, 2012, 6(12).(8)谢世朋，罗立民．基于衰减板的锥束CT散射校正．电子学报，2011 , 20 (7): 1708-1711．"
+}
+{
+    "姓名": "熊健",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "jxiong@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "徐欣",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "xuxin@njupt.edu.cn ;",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "徐欣，男，现任南京邮电大学人事处副处长，博士生，信息与通信工程学科副教授，校教学名师，企业EAP高级执行师，TOC突破教练。曾获全国高校青年教师教学竞赛二等奖、全国多媒体课件大赛二等奖、全国高校微课教学比赛优秀奖、江苏省本科高校青年教师教学竞赛一等奖、江苏省高校微课教学比赛评选中获一等奖、校课堂教学卓越教师培育人选、校先进工作者称号、校青年教师教学优秀奖、校教学标兵奖、校教学成果一等奖、三维通信奖教金、江苏省高等学校优秀多媒体教学课件一等奖等奖项，指导国家级大学生创业训练计划项目多项。教学方面主要从事数字信号处理（双语）等课程教学研究工作。其中从事的大脑物理传递层面和意识层面联系的研究，开发了相关训练课程，为企事业单位提供培训服务。科研方面主要从事以发展人工智能技术为导向的类脑研究以及探索大脑秘密、攻克大脑疾病为导向的脑科学研究，与多家企事业单位有联系合作，目前主持、参与国家自然科学基金项目四项、省高校自然基金两项、东大生物电子学国家重点实验室开放课题和MEMS教育部重点实验室开放课题各一项、校青蓝计划项目一项等各类各级项目三十多项，发表SCI、EI、ISTP检索论文三十多篇，申请专利5项，授权专利1项。",
+    "研究领域": "研究方向：以探索大脑秘密、攻克大脑疾病为导向的脑科学研究以及以建立和发展人工智能技术为导向的类脑研究。\r（一）主要通过研究人工智能技术信号处理、机器学习、信号感知等方向的理论、算法的研究，研究大脑对外界环境的感官认知，即探究人类对外界环境的感知，如人的注意力、学习、记忆以及决策制定等；\r（二）通过样本模型的信号分析，研究人类的自我意识、同情心以及意识的形成对人类自我意识的认知；\r（三）通过生物纳米传感器的研究，例如二维材料柔性传感器等，将化学或是其他信号转变成电学信号，模仿人脑的功能；\r（四）通过二维材料发光谱信号解析的相关研究，以期实现大脑中神经网络的内部互动成像的实时显示及研究；\r（五）产品应用方面主要从事生物电信号及其他信号的检测技术、脑机接口（BCI）技术及应用以及信号的特征识别、信号转换、信号处理和多媒体信息处理等多种应用技术的开发和产品应用研究。\r\r主要研究成果：目前主持、参与国家自然科学基金项目四项、省高校自然基金两项、东大生物电子学国家重点实验室开放课题和MEMS教育部重点实验室开放课题各一项、校青蓝计划项目一项等各类各级项目三十多项，发表SCI、EI、ISTP检索论文三十多篇，申请专利5项，授权专利1项。\r\r欢迎对信号处理、人工智能、脑科学领域研究有兴趣，具有一定创新能力和探索精神，勤奋踏实的同学报考。"
+}
+{
+    "姓名": "闫静杰",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "yanjingjie@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "闫静杰，博士/副教授，南京邮电大学通信与信息工程学院（江苏省图像处理与图像通信重点实验室）。2015年毕业于东南大学信息科学与工程学院信息与通信工程专业，获博士学位。2015年进入南京邮电大学通信与信息工程学院工作。主要研究方向包括：人工智能、深度学习、图像与语音处理、情感计算、计算机视觉、模式识别等。主持了国家自然科学面上项目、国家自然科学青年基金、省自然科学青年基金、省高校自然科学基金面上项目等项目，并参与了国家973项目、国家自然科学基金重点项目、国家自然科学基金面上项目等项目，在国际权威期刊IEEE Transaction on Multimedia、IEEE Signal Processing Letters和IEICE等国内外期刊和会议上发表了三十余篇学术论文，担任IEEE Transactions on Multimedia, IEEE Transactions on Affective Computing，IEEE Transactions on Image Processing，IEEE Signal Processing Letters， Pattern Recognition，IEICE等学术期刊的审稿人。",
+    "研究领域": "研究方向：\r人工智能（Artificial Intelligence）\r深度学习(Deep Learning)\r图像与语音处理(Image and Speech Processing)\r情感计算(Affective Computting)\r计算机视觉(Computer Vision)\r模式识别(Pattern Recognition)\r\r主持的科研项目：\r1、国家自然科学面上项目：基于深度学习的表情、语音和姿态多模态情感识别研究\r2、国家自然科学青年基金：基于人脸表情、身体姿态和语音的多模态情感识别方法研究\r3、江苏省自然科学青年基金：基于Harris空时特征和特征层融合的表情和姿态双模态情感识别方法研究\r4、江苏省高校自然科学基金面上项目：基于语音和表情的双模态情感识别研究\r参与的科研项目：\r1、国家973项目：网络海量可视媒体智能处理的理论与方法\r2、国家自然科学基金重点项目：基于视频分析的儿童行为研究\r\r代表性论文：\r1. Jingjie Yan, Wenming Zheng, Qinxu Xu, Guanming Lu, Haibo Li, and Bei Wang, “Sparse kernel reduced-rank regression for bimodal emotion recognition from facial expression and speech,” IEEE Transaction on Multimedia, vol. 18, No. 7, pp. 1319-1329, Jul. 2016.（SCI ，2区）\r2.Jingjie Yan, Wenming Zheng, Xiaoyan Zhou, Zhijian Zhao, “Sparse 2-D Canonical Correlation Analysis via Low Rank Matrix Approximation for Feature Extraction,” IEEE Signal Processing Letters, Vol.19, No.1, pp.51-54, 2012. （SCI ，3区）\r3. Jingjie Yan, Bojie Yan, Ruiyu Liang, Guanming Lu, Haibo Li, Shipeng Xie, “Facial Expression Recognition via Regression-based Robust Locality Preserving Projections,” IEICE Transactions on Information and Systems, Vol. E101-D, No.2, pp., 2018. （SCI，4区）\r4.Jingjie Yan, Wenming Zheng, Minghai Xin, Jingwei Yan, “Integrating Facial Expression and Body Gesture in Videos for Emotion Recognition”, IEICE Transactions on Information and Systems, Vol. E95-D, No.3, pp. 610-613, 2014. （SCI ，4区）\r5.Jingjie Yan, Wenming Zheng, Minghai Xin, Jingwei Yan, “Facial Expression Recognition Based on Sparse Locality Preserving Projection”, IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E97-A, No.7, pp. 1650-1653, 2014. （SCI ，4区）\r6.Jingjie Yan, Xiaolan Wang, Weiyi Gu, Lili Ma, “Speech Emotion Recognition Based on Sparse Representation”, Archives of Acoustics, Vol. 38, No.4, pp. 465-470, 2013. （SCI ，4区）\r7. Zhengyan Zhang, Jingjie Yan, Guanming Lu, Haibo Li, Ning Sun and Qi Ge,“Multiscale adaptive local directional texture pattern for facial expression recognition,” KSII Transactions on Internet and Information Systems, vol.11, no.9, pp.4549–4566, 2017. （SCI，4区）\r8. Bojie Yan, Jingjie Yan and Wenjiao Shi, “Estimation of carrying capacity of livestock farm based on maximum phosphorus load of farmland and GIS spatial analysis technology,” Current science, Vol.112, No.9, pp.1931-1936, 2017. （SCI，4区）\r9. Bojie Yan , Wenjiao Shi , Jingjie Yan, “Spatial distribution of livestock and poultry farm based on livestock manure nitrogen load on farmland and suitability evaluation,” Computers and Electronics in Agriculture, vol. 139, pp. 180–186, 2017. （SCI，3区）"
+}
+{
+    "姓名": "颜俊",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "yanj@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "颜俊，2012年3月获东南大学通信与信息工程博士学位，2012年7月南京邮电大学通信与信息工程学院任教。现为通信与信息工程学院副教授，硕士生导师。期间2013年分别获得江苏省政府奖学金，国家留学基金委公派出国奖学金。2014年8月-2014年10月美国内布拉斯大学加林肯分校计算机与电子工程系访问学者。2016年7月-2016年8月加拿大康考迪亚大学计算机与电子工程系研究科学家。主要研究方向包括：基于机器学习的无线定位技术，智能信号处理技术，定位系统的资源优化设计。共发表学术论文50多篇，其中包括IEEE Journals on Selected Areas on Communications，IEEE Trans. Communications ，IEEE Trans. Vehicular Technology, IEEE Trans. Broadcasting, IEEE Sensors Journal等国际期刊。担任IEEE，IET旗下多个国际期刊的审稿人。目前主持国家自然科学基金面上项目1项，参与国家自然科学基金3项， 完成国家自然科学基金青年项目1项，校人才引进项目1项。授权发明专利3项。",
+    "研究领域": "科研项目\r1. 国家自然科学基金面上项目 61771256 高效实时的物联网定位技术研究，2018/01-2021/12, 62万, 在研, 主持\r2. 江苏省光通信工程技术研究中心开放课题  ZSF0101 自由空间光通信中继位置最优化方法 2015/06- 2017/07,  5万，结题, 主持\r3. 国家自然科学基金青年项目 61302103 数字电视地面广播单频网定位系统关键技术研究， 2014/01-2016/12, 24万, 已结题, 主持\r4. 校引进人才科研启动基金  NY213012  单频网定位增值业务开发关键技术研究， 2013/06-2016/06, 5万, 已结题, 主持\r5. 国家863计划 2008AA01Z227  空间环境自适应的抗干扰通信新体制2008.07-2011.04    79万 完成  参与\r6. 高等学校科技创新工程重大项目培育资金项目 706028 基于数字广播电视信号的无线电组合定位 2007.1-2008.12   60万  完成  参与\r期刊论文\r[1] Jun Yan, Lin Zhao, Jian Tang, Yuwei Chen, Ruizhi Chen, and Liang Chen, Hybrid Kernel Based Machine Learning Using Received Signal Strength Measurements for Indoor Localization, IEEE Trans. Vehicular Technology, Article DOI: 10.1109/TVT.2017.2774103\r[2] Xiaohuan Wu, Wei-Ping Zhu, Jun Yan, Zeyun Zhang, Two sparse-based methods for off-grid direction-of-arrival estimation, Signal Processing, vol. 142, 2018, pp. 87-95.\r[3] Liang Chen, Lieliang Yang, Jun Yan, Ruizhi Chen, Joint wireless positioning and emitter identification in DVB-T single frequency networks, IEEE Trans. Broadcasting, vol. 63, no. 3, pp. 577-582, 2017\r[4] Xiaohuan Wu, Wei-Ping Zhu and Jun Yan, A Toeplitz covariance matrix reconstruction approach for direction-of-arrival estimation, Accepted for publication in IEEE Transactions on Vehicular Technology, 2017.\r[5]. Bingcheng Zhu, Julian Cheng, Jun Yan, Jinyun Wang, Lenan Wu, and Yongjin Wang, A New Asymptotic Analysis Technique for Outage Probabilities of Diversity Systems Over Correlated Lognormal Fading Channels, Accepted for publication in IEEE Transactions on Communications, 2017.\r[6]. Bingcheng Zhu, Julian Cheng, Yongjin Wang, Jun Yan, and Jinyuan Wang, Three-Dimensional VLC Positioning Based on Angle Difference of Arrival With Arbitrary Titling Angle of Receiver, Accepted for publication in IEEE Journals on Selected Areas on Communications, 2017.\r[7]. Bingcheng Zhu, Jun Yan, and Yongjin Wang, Lenan Wu, and Julian Cheng, Asymptotically Tight Performance Bounds of Diversity Receptions Over α-µ Fading Channels With Arbitrary Correlation, Accepted for publication in IEEE Transactions on Vehicular Technology, 2017.\r[8] Xiaohuan Wu, Wei-Ping Zhu and Jun Yan, A fast gridless covariance matrix reconstruction method for one- and two-dimensional direction-of-arrival estimation, IEEE Sensors Journal, vol. 17, no. 15, pp. 4916-4927, August 1, 2017.\r[9] Jun Yan, Kegen Yu, Yangqin Cao, Liang Chen, Attack-resistant received signal strength based compressive sensing wireless localization, KSII Transactions on Internet and Information Systems, vol.11,no.9, pp. 4418-4437, 2017.\r[10]. Jun Yan, Kegen Yu, Ruizhi Chen, Liang Chen, An improved compressive sensing and received signal strength based target localization algorithm with unknown target population for wireless local area networks, Sensors, vol.17,no.6, pp. 1-18, 2017.\r[11] Xiaohuan Wu, Wei-Ping Zhu and Jun Yan, Direction of arrival estimation for off-grid signals based on sparse Bayesian learning, IEEE Sensors Journal, vol. 16, no. 7, pp. 2004-2016, 2016.\r[12]. Jun Yan, Kegen Yu, Base station placement for wireless sensor network positioning system via lexicographical stratified programming, KSII Transactions on Internet and Information Systems, vol. 9, no. 11, pp. 4453-4467, 2015.\r[13]. Jun Yan, Kegen Yu and Lenan Wu, Fuzzy Modeling, Maximum Likelihood Estimation and Kalman Filtering for Target Tracking in NLOS Scenarios, EURASIP Journal on Advances in Signal Processing, 105: 1-16, 2014.\r[14] Jun Yan, Kegen Yu, Lenan Wu, Single frequency network based mobile tracking in NLOS environments, Elsevier, Physical Communication, vol.13, pp. 54-67, 2014.\r[15] Jun Yan, Lenan Wu, Base station identification in single frequency network positioning system under mixed LOS/NLOS Condition, IET Communications , 2012, 6(18): 3189-3195\r[16] Jun Yan, Lenan Wu, Base station identification in single frequency network positioning system using fuzzy logic technique, IET Wireless Sensor Systems, 2012, 2(3): 230-237\r[17] Jun Yan, Lenan Wu, A passive location system for single frequency networks using digital terrestrial TV signals, European Transactions on Telecommunications, 2011, 22(8): 487-499\r[18] 颜俊, 吴乐南, 基于模糊逻辑的数字滤波器设计,  东南大学学报 (自然科学版), 2011, 41( 2): 215-219\r[19] Jun Yan, Linru Wang, Lenan Wu, Passive location estimation using scatter information for non-line-of-sight environments, Journal of Southeast University (English Edition), 2010, 26(4): 518-522\r[20] 颜俊, 陈亮, 吴乐南, 基于信号检测法的NLOS 识别, 信号处理, 2009, 25(12): 1848-1852\r授权发明专利\r1. 颜俊, 朱卫平, 叶新荣, 康彬, 一种单频网定位系统中的基站识别方法,  2016.03.26,   中国,  ZL201310672142.8\r2. 颜俊，高瑞令，吴晓富，朱卫平，基于DFT的正弦信号频率估计方法，2016.08.31，中国,   ZL201410151762.1\r3. 朱卫平,康彬,颜俊,孟庆民,叶新荣, 一种基于压缩感知的图像融合方法,  2016.04.13，中国,  ZL201310454377.X"
+}
+{
+    "姓名": "杨海根",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "yhg@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "杨真真",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "yangzz@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "杨真真，南京邮电大学副教授、硕士生导师。毕业于南京邮电大学信号与信息处理专业，获工学博士学位，2015年7月-8月，访问香港浸会大学。主持国家自然科学基金1项，中国博士后科学基金1项，通信与网络技术国家工程研究中心开放课题1项，江苏省博士研究生创新计划项目1项，南京邮电大学引进人才项目1项，参加了多项国家级、省部级等科研项目；以第一作者在",
+    "研究领域": ""
+}
+{
+    "姓名": "杨震",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "yangz@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": "研究方向1.《无线通信与网络信号处理》   信号处理技术对提高无线通信特别是下一代无线网络性能的作用越来越大，信号处理与通信理论和技术两者的结合始终密不可分。本研究方向研究新一代无线通信中的通信与信号处理技术，主要研究内容包括：认知网络与无线传感网络、非正交多址接入，基于压缩感知和自适应信号处理的无线网络环境感知与预测、协作通信与多无线电技术、物理层安全技术等。2.《语音处理与现代语音通信》    语音是人类进行通信交往的最方便最快捷的手段，因而在各种现代通信和信号处理系统中起着十分重要的作用。本研究方向研究新的图语音信号处理理论和技术，压缩感知和非线性自适应语音信号处理技术，语音多维信息识别技术，基于AI的语音处理技术，各种通信网络环境中的实时语音通信技术。  "
+}
+{
+    "姓名": "岳文静",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "yuewj@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "岳文静，博士，现为南京邮电大学通信与信息工程学院副教授、硕士生导师，2010年毕业于上海交通大学，获通信与信息系统专业博士学位。长期从事信息网络与通信领域的教学和科研工作，承担或者参加国家自然科学基金项目、中国博士后科学基金项目、江苏省自然科学基金项目、江苏省重点研发计划项目、江苏省博士后科研资助计划项目、江苏省高校自然科学研究项目等科研项目10多项，目前正在主持国家自然科学基金项目（青年基金）“噪声不确定下基于计算智能的多跳认知无线电网络协作频谱感知优化”，参加江苏省重点研发计划（社会发展）项目“基于移动物联网和大数据挖掘的全民健身和体育竞技场馆信息服务系统及应用示范”，近年来在Computers & Electrical Engineering、Science China-Information Sciences、Sensors、中国科学、电子与信息学报等国内外学术期刊或会议上发表重要学术论文30多篇，国家发明专利申请或授权70多项。",
+    "研究领域": "1.智能化无线网络基础理论与方法\r着重利用智能优化算法、机器学习、数据挖掘、博弈理论等解决无线网络关键理论和技术问题。\r2.移动物联网、无线传感网与信息物理融合系统\r着重研究移动物联网、无线传感网等自组织网络的通信理论与方法，开发面向特定应用领域的信息物理融合系统。"
+}
+{
+    "姓名": "张春梅",
+    "性别": "女",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "cmz@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": ""
+}
+{
+    "姓名": "张登银",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "研究员",
+    "邮箱": "zhangdy@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理,(0810Z2)信息网络",
+    "个人简介": "张登银，男，江苏靖江人，1964年生，博士，研究员，博士生导师。南京邮电大学物联网学院院长，江苏省宽带无线通信和物联网重点实验室主任，教育部泛在网络健康服务系统工程研究中心副主任，江苏省通信学会物联网专业委员会主任。中国通信学会物联网委员会委员，中国电子学会通信学分会委员，中国通信企业协会理事。中国通信学会、中国计算机学会、中国电子学会高级会员，IEEE会员。瑞典UMEA大学数字媒体实验室博士后。江苏省高校“青蓝工程”培养对象,江苏省“六大人才高峰”高层次人才培养对象,江苏省“333高层次人才培养工程”首批中青年科学技术带头人。研究方向为智能信号与信息处理，IP网络技术（物联网），信息安全。完成国家自然科学基金、国家863计划、信产部重点科技发展计划、省高技术研究等各类科研成果约40余项，发表论文200余篇（其中SCI/EI收录80余篇），编著3部，获省部级科技进步成果奖8项，申请发明专利60余项，获得技术发明专利授权40余项。",
+    "研究领域": "本人可以在信号与信息处理（081002）、信息网络 (081021) 两个专业招收博士研究生和学术型硕士研究生，同时在085400电子信息硕士点专业招收全日制专业学位硕士研究生，考试科目详见南京邮电大学研究生招生目录，欢迎对下述专业方向感兴趣的考生报考！\r\r一、信号与信息处理（081002）专业方向：\r    1、无线通信与智能信号处理\r    本研究方向以现代信号处理为基础，研究提高通信与信息系统有效性和可靠性的各种智能处理技术及其在移动通信、多媒体通信、宽带接入和IP网中的应用。目前侧重于研究新一代无线通信网络中各种先进的智能信号处理技术（如通信信号盲分离、信道盲辨识与均衡、多载波调制、多用户检测、空时联合处理）以及网络环境下的各种自适应技术等。\r\r二、信息网络 (081021)专业方向:\r   1、现代通信网络与信息处理技术\r    本研究方向是以现代信息理论和现代信号处理为基础，面向三网融合，研究提高通信与信息系统有效性、可靠性和智能化水平的通信组网与信息处理技术，及其在宽带无线接入、多媒体通信和IP网络中的应用。目前侧重于新一代无线通信网络（如传感器网络，认知无线电网络，异构泛在网络）中各种先进的组网与信号处理技术（如协作通信、频谱感知网络编码等）以及网络环境下的各种自适应技术。\r    2. 网络信息安全技术\r    本研究方向主要是以现代密码学理论和信息伪装技术为基础，研究面向三网融合的下一代网络（NGN）中信息安全的原理、技术和应用，包括信息在各种信号中的携带形式，信息的隐藏、检测、截获、攻击、加密等技术，无线环境下信息接入的认证技术，无线移动网络中的信息安全技术，以及网络数字版权管理（DRM）系统。"
+}
+{
+    "姓名": "张玲华",
+    "性别": "女",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "zhanglh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "张玲华：1987年6月于南京工学院（现东南大学）无线电工程系取得学士学位，并免试攻读硕士学位；1990年4月于东南大学无线电工程系信号与信息处理专业取得硕士学位；1996年--1997年在东南大学无线电工程系信号与信息处理专业做国内访问学者；2005年7月于南京邮电大学信号与信息处理专业取得博士学位。现为南京邮电大学信息与通信工程学科教授、博士生导师，通信与信息工程学院副院长。主要研究方向为数字信号处理、智能信号处理、语音信号处理及现代通信技术。曾获厅级科技进步一等奖1项，江苏省优秀教学成果奖3项。先后获得江苏省“青蓝工程”优秀青年骨干教师、江苏省“青蓝工程”中青年学术带头人等荣誉称号，所在科研究团队于2008年被评为江苏省“青蓝工程”科技创新团队。作为负责人或主要骨干完成的科研项目包括：国家自然科学基金项目、国家863高科技发展项目（含重点项目1项）、国家重点实验室开放课题、江苏省自然科学基金项目、江苏省高校“青蓝工程”中青年学术带头人课题及合作项目等。近年内在IEE Electronics Letters、JOURNAL OF ELECTRONICS(CHINA)、《通信学报》、《电子信息学报》等国际、国内重要学术刊物及国际学术会议发表学术论文数十篇，申请发明专利10余项，主编出版研究生教材1部。",
+    "研究领域": "研究方向：1.《语音处理与现代语音通信》研究语音和音频信号的高质量低码率压缩技术；语音和说话人的识别和转换技术；复杂环境中的语音处理技术；语音信息的隐藏、截获、攻击、加密技术，以及无线环境中信息接入的语音认证和多模认证技术。2.《无线通信中的信号处理》研究新一代无线通信网络中的通信与信号处理技术，主要研究内容包括：基于信号处理的网络参数预测、拓扑分析、流量控制；认知无线电网络、无线传感器网络、物联网环境中的分布式协同信号处理、异构信息融合和处理技术等。"
+}
+{
+    "姓名": "张艳彬",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "讲师",
+    "邮箱": "zhangyb@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "张艳彬，1978年8月生，山东省滕州市人，2007年11月于南京航空航天大学获工学博士学位，现任职于通信与信息工程学院图像与广播电视系。",
+    "研究领域": "研究方向：主要从事图像处理方面的研究工作，具体研究方向包括：（1）计算机视觉理论和系统，包括显微视觉系统、双目立体成像理论、基于深度传感器的3d成像系统的研究以及图像识别系统的研究；（2）图像不变特征的研究，包括不变量构建理论以及在图像应用系统中的应用研究；（3）动态图像处理及编码理论研究，包括运动目标的提取、跟踪和运动参数测量的方法研究以及动态图像编码理论的研究。研究成果：在各类核心期刊上发表论文10余篇，获得专利授权两项，主持研究省教育厅项目1项，横向项目1项，校级项目两项，参与研究省级项目1项，国家自然科学基金项目两项。"
+}
+{
+    "姓名": "赵君喜",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "教授",
+    "邮箱": "junxi_zhao@163.com",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "赵君喜，教授，1996年毕业于南京大学，获博士学位，现任理学院信息与计算科学系主任，从事通信信号与信息处理应用研究，完成三项国家自然科学基金项目研究，目前在研国家自然科学基金项目一项。在国际国内外著名学术刊物发表学术论文60余篇，任IEEE Tran signal proc、电子学报、信号处理等刊物评审专家。",
+    "研究领域": "1.感知无线电与无线通信信号智能算法 主要研究MIMO系统信号的传输、无线频谱检测与分配、压缩感知理论与应用、视频信息检测等。2.网络信号与信息的理论及应用主要研究网络编码、多信道私密容量以及网络协作处理等。"
+}
+{
+    "姓名": "赵生妹",
+    "性别": "女",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "zhaosm@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "赵生妹，女，教授/博士，博士生导师，研究方向为量子信息技术、无线通信与信号处理技术。2008.9-2009.9在英国格拉斯哥大学做高级访问学者，并同时被格拉斯哥大学聘请为名誉高级研究员，2010.2-3在日本东京大学量子情报研究所做短期访问。自工作以来，长期从事“信息论基础”、“量子信息处理”的教学和科研工作。现为江苏省普通高校“青蓝工程”学术带头人，南京邮电大学信号与信息处理专业学术带头人，江苏省通信学会高级会员。担任第八至第十二届亚洲量子信息科学会议组织委员会委员。主持、参与和完成国家级、省部级项目9项，在国内外核心期刊发表学术论文120余篇（SCI /EI检索50余次），其中第一作者56篇，多篇文章被他人引用,最高次为29次；以第一作者编著《量子信息处理技术》；获授权专利3项，申请专利1项。正在主持国家自然科学基金项目1项，江苏省高校自然科学研究重大项目1项，国家（部）重点实验室开放课题2项。指导江苏省优秀硕士研究生1名；作为第一完成人，获江苏省多媒体课件一等奖。",
+    "研究领域": "1．量子信息技术：利用量子态的物理特性进行信号及信息的表示和处理。随着量子加密技术、SHOR算法和GROVER快速搜索算法等方法的提出，量子信息技术得到了迅速发展，已逐渐从理论到实验，乃至实用化。目前本研究小组注重量子信息技术在现代通信中的应用研究，主要包括量子信息安全技术、量子多用户检测技术、量子纠错编码技术、量子成像技术，以及量子纠缠技术等。2．无线通信与信号处理技术 是将信号处理技术与网络相结合，研究新一代无线通信网络中的通信和信号处理技术。目前主要研究信道纠错编码、压缩感知技术等在无线网络中应用，包括基于信道编码的协作通信技术、基于POLAR码的窃听信道安全技术，以及基于压缩感知的成像技术等。"
+}
+{
+    "姓名": "周健",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副研究员",
+    "邮箱": "jzhou@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "周健，男，1963年生，1985年获南京邮电学院无线电工程专业工学学士学位，南京邮电大学在职博士，信号处理与传输研究院副研究员。中国电子学会高级会员，中国通信学会高级会员。参与完成了国家自然科学基金项目、国家863项目、江苏省自然科学基金项目。主持完成了江苏省高校自然科学研究计划等科研项目，主持、参与完成了武汉邮科院、常州电信、九江电信、焦作电信等企业项目二十余项。在国内核心期刊及国际、国内重要学术会议上发表学术论文十余篇。",
+    "研究领域": "无线通信与信号、信息处理技术    研究将信号处理技术与网络通信技术相结合，提高通信与信息网络系统的有效性和可靠性的各种信号、信息处理技术。研究自组织网络、超三代(B3G)等新一代无线通信网络中的通信和信号、信息处理技术。包括协作通信、协作分集与网络编码、信源与信道的联合优化、物理层与MAC层的联合优化、通信网络性能分析等。"
+}
+{
+    "姓名": "周亮",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "liang.zhou@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "南京邮电大学教授，博士生导师。",
+    "研究领域": "主要研究方向是多媒体通信。近年来发表多篇学术论文，担任IEEE Wireless Communications, IEEE Network等期刊编委。申请中国专利31项、法国专利3项，德国专利1项。获得中国通信学会一等奖等科技奖励。先后获得中组部“青年**计划”、国家“优秀青年基金”、江苏省“十大杰出青年”、江苏省“五四青年奖章”等荣誉称号。"
+}
+{
+    "姓名": "周全",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "quan.zhou@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "",
+    "研究领域": ""
+}
+{
+    "姓名": "朱虎",
+    "性别": "男",
+    "导师类型": "硕士生导师",
+    "技术职称": "副教授",
+    "邮箱": "zhuhu@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": ""
+}
+{
+    "姓名": "朱卫平",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "zwp@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "朱卫平， 男，1962年生，1982年毕业于南京邮电学院获学士学位；1985年获该校硕士学位后留校任教至1987年；1991年毕业于东南大学获博士学位；1991年至 1992年于加拿大Concordia 大学从事博士后研究。1993年3月起任该校副教授，1996年出国进修。曾在加拿大北方电信（Nortel），爱士乐电信（SR Telecom）等高科技公司任高级系统工程师，从事无线通信系统物理层的研发工作。2001年7月起任教于加拿大Concordia大学电子与计算机工程系，并于2010年7月起任该校教授，2007年6月起任南京邮电大学信号处理与传输研究院教授、博导。现为IEEE电路与系统学会、信号处理学会及通信学会高级会员。曾任若干国际会议程序委员会委员、分会主席、IEEE电路与系统学会数字信号处理技术委员会秘书（2012-2014）、IEEE Trans. Circuits and Systems-I刊物编委(2001-2003)、Circuits, Systems and Signal Processing期刊编委(2006-2009)及IEEE Journal on Selected Areas in Communication (JSAC)两期专刊客座编委: (1) Broadband Wireless Communications for High Speed Vehicles in 2011 及(2) Virtual MIMO in 2012。现任IEEE Trans. Circuits and Systems-II刊物副编委(2011年至今) 、The Journal of the Franklin Institute刊物副编委、IEEE电路与系统学会数字信号处理技术委员会主席(2014-2016)。目前的研究兴趣为语音处理及无线通信中的现代信号处理。",
+    "研究领域": "研究方向：无线通信与信号处理技术研究内容：无线移动通信中的关键信号处理技术，多输入多输出(MIMO)及正交频分调制 (OFDM)信号的发射与接收，MIMO中继系统的协作通信、预处理及功率分配算法，MIMO-OFDM信道建模、半盲估计及时变衰落信道跟踪等。主要成果：在国际学术期刊上发表SCI检索论文80余篇，其中IEEE Transactions 系列刊物论文40余篇，在国际会议上发表论文140余篇。已主持完成加拿大自然科学与工程基金项目多项、中国国家自然科学基金项目一项、校引进人才基金项目一项，参与完成江苏省教育厅自然科学基金项目及教育部博士点基金项目两项。目前主持国家自然科学基金项目一项, 参与国家自然科学基金项目两项。在加拿大Concordia 大学及南京邮电大学任职以来已指导博士后12名(出站10名, 在研2名)、博士生19名(毕业11名,在读8名)、硕士生40余名。"
+}
+{
+    "姓名": "邹玉龙",
+    "性别": "男",
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "yulong.zou@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "南京邮电大学教授、博士生导师，长期在无线网络与通信安全领域从事教学和科研工作，主要研究方向包括空天一体化网络、异构协同网络、无线通信安全等新一代宽带无线通信理论前沿及关键技术，累计发表学术论文150余篇，出版学术专著1部，获国内外学术引用5000余次。承担了国家优秀青年科学基金、国家自然科学基金重点项目、江苏杰出青年科学基金等省部级以上科研项目，入选了江苏省六大人才高峰创新人才团队、江苏省333中青年领军人才等省部级以上人才工程。因在无线通信领域取得的突出成绩，被授予IEEE通信学会亚太区最杰出青年研究学者、南京市有突出贡献中青年专家、中国通信学会青年科技奖、中国电子学会优秀科技工作者等荣誉称号，并获得2017年度国家教育部自然科学二等奖（排1/8）、2016年度中国电子学会自然科学二等奖（排1/5）、2015年度江苏省科学技术二等奖（排2/8）等省部级以上科技奖励。",
+    "研究领域": "主要研究方向包括认知协同通信、无线传输安全、无线传感网、异构无线网络、以及新一代宽带无线通信理论与关键技术。"
+}
+{
+    "姓名": "曹雪虹",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": null,
+    "邮箱": "caoxh@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "　   1985年7月毕业于南京邮电学院无线电工程专业，获学士学位；1988年4月毕业于南京邮电学院通信与电子系统专业，获硕士学位；1999年2月毕业于上海交通大学通信与信息系统专业，获博士学位。2004至2005年作为访问学者赴美国斯坦福大学电气工程系研修一年。      中国电子学会高级会员，江苏省“333工程”培养对象，江苏省普通高校“青蓝工程”中青年学术带头人；国家科学技术奖励评审专家，国家自然科学基金项目评审专家，国家高技术研究发展计划（863计划）专家库专家，江苏省高新技术企业认定专家，江苏省自然科学基金委员会成员。",
+    "研究领域": "《现代通信中的智能信号处理技术》研究提高通信与信息系统有效性和可靠性的各种智能处理技术及其在移动通信、多媒体通信、宽带接入和IP网中的应用。目前侧重于研究新一代无线通信网络中各种先进的智能信号处理技术，如通信信号盲分离、信道盲辨识与均衡、多载波调制、多用户检测、空-时联合处理、信源-信道编码，以及网络环境下的各种自适应技术等。    本人长期从事信息与通信工程专业的教学和科研工作，开设的研究生和本科课程有“信息论基础”、“编码理论” 、“信息论与编码”、“数字信号处理”等。主持或参加国家自然科学基金、信息产业部、省自然科学基金等科研项目十余项，内容包括无线通信、多媒体传输等方面的理论研究和产品研发。主编和参编出版专著和教材5本，其中主编《信息论与编码》被列入“十五”国家级规划教材、《信息论基础》被列入“十一五”国家级规划教材。已在国内外学术刊物和会议上发表学术论文70多篇，其中多篇被SCI/EI/ISTP收录。"
+}
+{
+    "姓名": "郭光灿",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": null,
+    "邮箱": "gcguo@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "郭光灿教授，1942年生于福建惠安。1965年毕业于中国科学技术大学无线电电子学系并留校任教。现任中国科学技术大学教授、中国科学院量子信息重点实验室主任。2003年当选中国科学院院士。2014年兼任南京邮电大学荣誉教授。    郭光灿院士现任中国科学院量子信息重点实验室主任、中国物理学会常务理事，中国光学学会付理事长，全国量子光学专业委员会主任，国际刊物《International J. of Quantum Information》 的Managing Editor。国家科技部973项目“量子通信与量子信息技术”首席科学家，中科院重要方向项目首席科学家，国家基金委创新群体学术带头人,国家科技部中长期规划“量子调控”重大项目－“量子通信与量子计算的物理实现”首席科学家。荣获国家自然科学二等奖，何梁何利奖，安徽省自然科学一等奖，安徽省2007年重大科技成就奖，被评选为中国科学院先进工作者、教育部全国优秀教师。迄今培养博士研究生 80余人，其中4人荣获全国百篇优秀博士论文奖，国家杰出青年基金获得者2名。",
+    "研究领域": "郭光灿院士主要从事量子信息的理论与实验研究。国际上首次提出概率量子克隆原理，并推导出最大克隆效率公式，被称为\"段－郭概率克隆机\"、\"段－郭界限\"，在实验上研制成功概率量子克隆机和普适量子克隆机，证实相关的理论预言；国际上首次提出量子避错编码原理，该原理成为三种不同原理的量子编码之一，已被实验证实；提出一种新型的量子处理器，已被实验证实；国际上首次解决量子密钥传输过程的稳定性问题，通过商用通信光路实现125公里单向量子密钥传输；发明量子密码通信网络的关键部件－\"量子路由器\"，并通过商用光纤实现四端口量子密钥网络的通信。已发表SCI论文820篇，其中 PRL 26篇，PRA 229篇；被SCI总引用10781次，他引9788次；出版著（译）作11部。"
+}
+{
+    "姓名": "林敏",
+    "性别": null,
+    "导师类型": "博士生导师",
+    "技术职称": "教授",
+    "邮箱": "linmin@njupt.edu.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "林敏，男，1972年生，教授，博士生导师，博士后合作导师。分别于1993年、2000年和2008年毕业于国防科技大学、南京通信工程学院和东南大学，获工学学士、硕士和博士学位，曾以国家公派高级研究学者身份赴美国的University of California访学。长期从事无线/卫星通信系统、智能信号处理等领域的教学科研工作，主持或参与完成了国家“973”、“863”、国家自然科学基金、国防预研、型研以及省部级科研项目近30项，多个成果达到国际领先或先进水平，并应用于实际的无线通信系统中，产生了良好的社会和经济效益。获国家科技进步二等奖1项，省部级科技进步二等奖4项，三等奖1项，在IEEE JSAC、J-STSP、TSP、TCOM等国内外核心期刊和重要国际会议上共发表学术论文150余篇，其中SCI收录60余篇。担任了国家自然科学基金申请书函评专家，郑州信息化专家委员会委员，ICC 2019的卫星与空间通信（SSC）专题主席，ICC、GLOBECOM等多个顶级国际会议的技术委员会（TPC）成员，以及IEEE  Magzine、Transactions以及Letters等多个顶级国际期刊的特邀审稿人。指导的学生中有多人次获得省部级优秀学位论文和国家奖学金，目前与美国、英国、加拿大等多个国家的多个知名团队建立良好的交流合作关系。"
+}
+{
+    "姓名": "王新珩",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": "教授",
+    "邮箱": "xinheng.wang@uws.ac.uk",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "王新珩教授是英国大学的全职教授，现为IEEE高级会员，英国标准委员会委员、英国威尔士政府专家顾问、欧盟项目评审和监控专家、英国EPSRC(英国工程、物理和科学研究基金委)项目评审专家。\r \r王教授在其多年的教学和研究生涯中，主持了一批欧盟、英国、中国以及企业界项目20多项，包括欧盟项目C－Monitor、eDispute、LP－WIS和Horizon2020项目SELFNET等4项和中国自然科学基金委项目3项、863项目1项。其中一些项目成果已经成功商业化。英国Swanmesh网络公司的成立就是依托他在无线Mesh网络领域的研究成果。近期，他和无锡知谷网络科技有限公司合作，研发了世界上首创的高科技产品i3Q候机宝，为世界各地机场提供智慧服务。",
+    "研究领域": "王教授的主要研究领域是以物联网、云计算以及大数据为依托的智能服务网络。\r\r物联网（包括无线mesh网络和传感器网络）领域：创新地将多色集合理论引入到网络的仿真、路由设计和信号认知中。根据多色集合理论设计的安全路由协议，建设了一个无线Mesh网络Swanmesh，并在英国创立Swanmesh Networks有限公司将科研成果商业化。同时在英国设立物联网研究生课程，传授最新的技术。在国内和企业合作，创建新型的智慧机场和智慧城市物联网。\r\r云计算领域：以欧盟H2020 SELFNET项目以及国家自然科学基金项目为基础，进行绿色云计算以及未来Software Defined Networks的科研工作。\r\r大数据：基于物联网和云计算技术，对采集到的数据进行大数据分析，提供个性化服务。\r\r其它研究领域还包括室内定位技术以及基于位置的服务，通信网络系统的互操作性研究，以及以上技术在灾害救援中的应用。\r\r在灾害救援领域，成立并领导一个英（国）巴（基斯坦）联合研究所，进行技术和标准的研究。同时发起并主持多个国际会议，成立一个世界联盟组织，致力于灾难救援领域的研究，服务社会。\r\r在科研活动的基础上，申请了发明专利14项、发表科研论文130多篇，其中SCI检索文章近50篇。同时获得国家省部级科学进步奖一等奖和三等奖各1项。"
+}
+{
+    "姓名": "徐常胜",
+    "性别": null,
+    "导师类型": "兼职博导",
+    "技术职称": null,
+    "邮箱": "csxu@nlpr.ia.ac.cn",
+    "学术型硕士招生学科": "(081002)信号与信息处理",
+    "个人简介": "1996年7月在清华大学获得工学博士学位，1996年9月至1998年3月为中国科学院自动化研究所模式识别国家重点实验室博士后及副研究员，1998年3月至2008年5月在新加坡资讯通信研究院（Institute for Infocomm Research）任研究员和项目负责人，并担任媒体分析实验室（Media Analysis Lab）主任，2001年获得澳大利亚悉尼大学U2000 Fellowship资助在悉尼大学计算机系任研究员，2008年5月加入中国科学院自动化研究所。",
+    "研究领域": "研究方向：多媒体分析与检索、计算机视觉、模式识别中国科学院自动化研究所模式识别国家重点实验室研究员，博士生导师，中国新加坡数字媒体研究院执行院长，国家杰出青年基金获得者，国家重点研发计划项目“大数据多模态交互协同关键技术”首席科学家。。目前是国际电子电气工程师学会会士（IEEE Fellow)，国际模式识别学会会士（IAPR Fellow）和美国计算机学会杰出科学家（ACM Distinguished Scientist），也是美国计算机学会杰出演讲者（ACM Distinguished Speaker）。担任国际刊物“IEEE Transactions on Multimedia”和“ACM Transactions on Multimedia Computing, Communication and Applications”副主编(Associate Editor)以及“ACM/Springer Multimedia Systems Journal”、“International Journal of Multimedia Tools and Applications”、“International Journal of Multimedia Intelligence and Security”和“Journal of Multimedia”编委（Member of Editorial Board)，担任过国际顶级多媒体会议“2009 ACM Multimedia Conference”程序委员会主席和2010年全国多媒体会议程序委员会主席。担任过多个知名多媒体国际会议的组织委员会和程序委员会成员。在多媒体分析、计算机视觉、模式识别、图像处理等领域发表论文200多篇，其中IEEE和ACM汇刊论文42篇，获得发明专利30项。担任国家自然科学基金委信息学部第十四届专家评审组成员，获得过首届CCF青年科学家奖，2012/2013年中科院优秀导师奖，2012年“ACM Transactions on Multimedia Computing, Communication and Applications” 和2008年“ACM/Springer Multimedia Systems Journal”最佳编委奖，2004年新加坡陈嘉庚发明银奖。"
+}
