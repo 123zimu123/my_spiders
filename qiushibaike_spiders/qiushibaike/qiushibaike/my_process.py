@@ -26,15 +26,15 @@ plt.figure(figsize=(20,8),dpi=80)
 
 #plot使用
 #print(df.iloc[:,0])  输出第一列值
-#col_values变成了list类型
+#col_list_values变成了list类型
 #print(df.shape,df.shape[0],df.shape[1]) shape[0]是行数
-# col = df.iloc[:,-1]
-# col_values = col.values
-# col_list_values = list(col_values)
-# plt.plot(range(df.shape[0]),col_list_values)
+col = df.iloc[:,-1]#取最后一列
+col_values = col.values#取值
+col_list_values = list(col_values)#列表化
+plt.plot(range(df.shape[0]),col_list_values)
 
 
 #bar使用
-plt.bar([0,10,20,30,40],[14,22,15,63,11])
+#plt.bar([0,10,20,30,40],[14,22,15,63,11])
 
 plt.show()
